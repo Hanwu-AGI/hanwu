@@ -1,0 +1,29 @@
+name: Hanwu-AGI Autonomous Demo
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  simulate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Run simulation cycle
+        run: python agent/autonomous_cycle.py
+
+      - name: Commit results
+        run: |
+          git config user.name "Hanwu-AGI"
+          git config user.email "bot@hanwu-agi.com"
+          git add data/
+          git commit -m "🤖 Auto: cycle $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git push
