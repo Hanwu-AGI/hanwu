@@ -139,7 +139,9 @@
 
   <script>
     function timeAgo(isoString) {
+      if (!isoString) return '—';
       const diff = Math.floor((Date.now() - new Date(isoString).getTime()) / 1000);
+      if (isNaN(diff)) return '—';
       if (diff < 60) return diff + ' sec ago';
       if (diff < 3600) return Math.floor(diff / 60) + ' min ago';
       if (diff < 86400) return Math.floor(diff / 3600) + ' hr ago';
@@ -147,7 +149,9 @@
     }
 
     function nextCycleTime(isoString) {
+      if (!isoString) return '—';
       const next = new Date(new Date(isoString).getTime() + 30 * 60 * 1000);
+      if (isNaN(next.getTime())) return '—';
       const h = String(next.getHours()).padStart(2, '0');
       const m = String(next.getMinutes()).padStart(2, '0');
       return h + ':' + m;
