@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "action": "BUY",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "amount": 0.011,
+    "outcome": "WIN",
+    "profit_loss": 0.003271,
+    "new_balance": 1.003271,
+    "confidence": 0.96,
+    "timestamp": "2026-02-20T09:46:14.312734"
+  },
+  {
+    "action": "BUY",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "amount": 0.0099,
+    "outcome": "LOSS",
+    "profit_loss": -0.002561,
+    "new_balance": 1.00071,
+    "confidence": 0.93,
+    "timestamp": "2026-02-20T09:46:14.312749"
+  }
+]
