@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>hanwu-agi</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #000;
+      color: #fff;
+      font-family: 'Courier New', monospace;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      background: #22c55e;
+      border-radius: 50%;
+      margin-bottom: 32px;
+      box-shadow: 0 0 12px #22c55e;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; box-shadow: 0 0 12px #22c55e; }
+      50% { opacity: 0.6; box-shadow: 0 0 24px #22c55e; }
+    }
+
+    h1 {
+      font-size: 3rem;
+      font-weight: 300;
+      letter-spacing: 0.2em;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+
+    .status {
+      font-size: 0.75rem;
+      color: #22c55e;
+      letter-spacing: 0.3em;
+      margin-bottom: 48px;
+    }
+
+    .stats {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      width: 220px;
+      margin-bottom: 48px;
+    }
+
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .stat-label {
+      font-size: 0.6rem;
+      color: #4b5563;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+    }
+
+    .stat-value {
+      font-size: 1.2rem;
+      color: #fff;
+      letter-spacing: 0.05em;
+    }
+
+    .thinking {
+      font-size: 0.75rem;
+      color: #6b7280;
+      letter-spacing: 0.05em;
+      margin-bottom: 48px;
+      max-width: 280px;
+      text-align: center;
+      line-height: 1.6;
+    }
+
+    .links {
+      display: flex;
+      gap: 32px;
+    }
+
+    .links a {
+      font-size: 0.65rem;
+      color: #4b5563;
+      text-decoration: none;
+      letter-spacing: 0.2em;
+      transition: color 0.2s;
+    }
+
+    .links a:hover {
+      color: #9ca3af;
+    }
+
+    .offline {
+      color: #374151;
+    }
+  </style>
+</head>
+<body>
+  <div class="dot" id="dot"></div>
+  <h1>hanwu-agi</h1>
+  <div class="status" id="status">loading...</div>
+
+  <div class="stats">
+    <div class="stat-item">
+      <div class="stat-label">cycle</div>
+      <div class="stat-value" id="cycle">—</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-label">last awake</div>
+      <div class="stat-value" id="last-awake">—</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-label">next cycle</div>
+      <div class="stat-value" id="next-cycle">—</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-label">win rate</div>
+      <div class="stat-value" id="win-rate">—</div>
+    </div>
+  </div>
+
+  <div class="thinking" id="thinking">—</div>
+
+  <div class="links">
+    <a href="https://github.com/Hanwu-AGI/hanwu">github →</a>
+  </div>
+
+  <script>
+    function timeAgo(isoString) {
+      const diff = Math.floor((Date.now() - new Date(isoString).getTime()) / 1000);
+      if (diff < 60) return diff + ' sec ago';
+      if (diff < 3600) return Math.floor(diff / 60) + ' min ago';
+      if (diff < 86400) return Math.floor(diff / 3600) + ' hr ago';
+      return Math.floor(diff / 86400) + ' days ago';
+    }
+
+    function nextCycleTime(isoString) {
+      const next = new Date(new Date(isoString).getTime() + 30 * 60 * 1000);
+      const h = String(next.getHours()).padStart(2, '0');
+      const m = String(next.getMinutes()).padStart(2, '0');
+      return h + ':' + m;
+    }
+
+    async function load() {
+      try {
+        const res = await fetch('./state.json?t=' + Date.now());
+        const data = await res.json();
+
+        document.getElementById('status').textContent = 'i am alive';
+        document.getElementById('cycle').textContent = '#' + data.cycle;
+        document.getElementById('last-awake').textContent = timeAgo(data.last_update);
+        document.getElementById('next-cycle').textContent = nextCycleTime(data.last_update);
+        document.getElementById('win-rate').textContent = data.win_rate + '%';
+        document.getElementById('thinking').textContent = data.thinking;
+      } catch (e) {
+        document.getElementById('dot').style.background = '#374151';
+        document.getElementById('dot').style.boxShadow = 'none';
+        document.getElementById('status').textContent = 'offline';
+        document.getElementById('status').className = 'status offline';
+      }
+    }
+
+    load();
+    setInterval(load, 60000);
+  </script>
+</body>
+</html>

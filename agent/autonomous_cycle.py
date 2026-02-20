@@ -1,7 +1,21 @@
 import json
 import os
+import random
 from datetime import datetime
 from simulator import TradingSimulator
+
+THINKING_PHRASES = [
+    "scanning for alpha...",
+    "building toward something...",
+    "patterns emerging...",
+    "processing market data...",
+    "monitoring liquidity pools...",
+    "analyzing whale movements...",
+    "calibrating signal weights...",
+    "hunting for inefficiencies...",
+    "observing the mempool...",
+    "cross-referencing on-chain data...",
+]
 
 def load_json(filepath, default):
     if os.path.exists(filepath):
@@ -37,6 +51,9 @@ def run_cycle():
     all_trades.extend(trades)
     save_json('data/trades.json', all_trades)
 
+    prev_state = load_json('docs/state.json', {"cycle": 0})
+    cycle_number = prev_state.get('cycle', 0) + 1
+
     if all_trades:
         total_profit = sum(t['profit_loss'] for t in all_trades)
         wins = len([t for t in all_trades if t['outcome'] == 'WIN'])
@@ -50,7 +67,7 @@ def run_cycle():
             "total_profit": round(total_profit, 6),
             "current_balance": round(1.0 + total_profit, 6),
             "last_update": datetime.now().isoformat(),
-            "cycle_count": len(set(t['timestamp'][:10] for t in all_trades))
+            "cycle_count": cycle_number
         }
     else:
         stats = {
@@ -61,16 +78,33 @@ def run_cycle():
             "total_profit": 0,
             "current_balance": 1.0,
             "last_update": datetime.now().isoformat(),
-            "cycle_count": 0
+            "cycle_count": cycle_number
         }
 
     save_json('data/stats.json', stats)
 
+    top_signal = signals[0] if signals else None
+    thinking = random.choice(THINKING_PHRASES)
+    if top_signal and top_signal['signal'] == 'BUY':
+        thinking = f"watching {top_signal['token']} closely... {top_signal['confidence']*100:.0f}% confidence"
+
+    state = {
+        "cycle": cycle_number,
+        "last_update": datetime.now().isoformat(),
+        "win_rate": stats['win_rate'],
+        "total_trades": stats['total_trades'],
+        "thinking": thinking
+    }
+
+    save_json('docs/state.json', state)
+
     print(f"\n📈 Performance Summary:")
+    print(f"   Cycle: #{cycle_number}")
     print(f"   Total Trades: {stats['total_trades']}")
     print(f"   Win Rate: {stats['win_rate']}%")
     print(f"   Total P/L: {stats['total_profit']:+.6f} ETH")
     print(f"   Balance: {stats['current_balance']:.6f} ETH")
+    print(f"   Thinking: {thinking}")
     print(f"\n✅ Cycle completed successfully\n")
 
 if __name__ == "__main__":

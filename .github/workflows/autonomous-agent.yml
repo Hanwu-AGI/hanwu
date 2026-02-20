@@ -24,6 +24,6 @@ jobs:
         run: |
           git config user.name "Hanwu-AGI"
           git config user.email "bot@hanwu-agi.com"
-          git add data/
-          git commit -m "🤖 Auto: cycle $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git add data/ docs/state.json
+          git commit -m "🤖 cycle #$(cat docs/state.json | python3 -c 'import sys,json; print(json.load(sys.stdin)[\"cycle\"])')" || echo "No changes"
           git push
