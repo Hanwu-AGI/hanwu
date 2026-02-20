@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hanwu-AGI</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #000;
+      color: #fff;
+      font-family: 'Courier New', monospace;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      border-bottom: 1px solid #1f2937;
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      background: rgba(0,0,0,0.8);
+      backdrop-filter: blur(8px);
+    }
+
+    .logo {
+      font-size: 0.7rem;
+      color: #d1d5db;
+      letter-spacing: 0.05em;
+    }
+
+    .logo span { color: #4b5563; }
+
+    .status-pill {
+      font-size: 0.65rem;
+      color: #6b7280;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .status-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #22c55e;
+      box-shadow: 0 0 6px #22c55e;
+      animation: blink 2s infinite;
+    }
+
+    .status-dot.dead {
+      background: #374151;
+      box-shadow: none;
+      animation: none;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    main {
+      flex: 1;
+      max-width: 680px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 64px 24px;
+    }
+
+    .hero {
+      margin-bottom: 64px;
+    }
+
+    .hero h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: 0.02em;
+      margin-bottom: 8px;
+    }
+
+    .hero p {
+      font-size: 0.75rem;
+      color: #6b7280;
+      letter-spacing: 0.05em;
+    }
+
+    .section-label {
+      font-size: 0.6rem;
+      color: #374151;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+
+    .stat-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1px;
+      background: #111;
+      border: 1px solid #111;
+      margin-bottom: 48px;
+    }
+
+    .stat-cell {
+      background: #000;
+      padding: 20px 24px;
+    }
+
+    .stat-cell .label {
+      font-size: 0.6rem;
+      color: #4b5563;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .stat-cell .value {
+      font-size: 1.1rem;
+      color: #e5e7eb;
+      letter-spacing: 0.02em;
+    }
+
+    .stat-cell .value.muted {
+      color: #6b7280;
+      font-size: 0.85rem;
+    }
+
+    .thinking-block {
+      border-left: 2px solid #1f2937;
+      padding: 16px 20px;
+      margin-bottom: 48px;
+    }
+
+    .thinking-block .label {
+      font-size: 0.6rem;
+      color: #374151;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .thinking-block .text {
+      font-size: 0.8rem;
+      color: #9ca3af;
+      line-height: 1.6;
+    }
+
+    footer {
+      border-top: 1px solid #1f2937;
+      padding: 20px 24px;
+      max-width: 680px;
+      width: 100%;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    footer .copy {
+      font-size: 0.6rem;
+      color: #374151;
+    }
+
+    footer a {
+      font-size: 0.6rem;
+      color: #4b5563;
+      text-decoration: none;
+      letter-spacing: 0.1em;
+      transition: color 0.2s;
+    }
+
+    footer a:hover { color: #9ca3af; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo"><span>&gt;</span> Hanwu-AGI</div>
+    <div class="status-pill">
+      <div class="status-dot" id="dot"></div>
+      <span id="status-text">online</span>
+    </div>
+  </header>
+
+  <main>
+    <div class="hero">
+      <h1>Hanwu-AGI</h1>
+      <p id="subtitle">autonomous signal generation and market analysis</p>
+    </div>
+
+    <div class="section-label">system status</div>
+    <div class="stat-grid">
+      <div class="stat-cell">
+        <div class="label">cycle</div>
+        <div class="value" id="cycle">—</div>
+      </div>
+      <div class="stat-cell">
+        <div class="label">last heartbeat</div>
+        <div class="value muted" id="last-heartbeat">—</div>
+      </div>
+      <div class="stat-cell">
+        <div class="label">next cycle</div>
+        <div class="value muted" id="next-cycle">—</div>
+      </div>
+      <div class="stat-cell">
+        <div class="label">last commit</div>
+        <div class="value muted" id="last-commit">—</div>
+      </div>
+    </div>
+
+    <div class="section-label">performance</div>
+    <div class="stat-grid" style="margin-bottom: 48px;">
+      <div class="stat-cell">
+        <div class="label">win rate</div>
+        <div class="value" id="win-rate">—</div>
+      </div>
+      <div class="stat-cell">
+        <div class="label">total trades</div>
+        <div class="value muted" id="total-trades">—</div>
+      </div>
+    </div>
+
+    <div class="thinking-block">
+      <div class="label">what i'm thinking</div>
+      <div class="text" id="thinking">—</div>
+    </div>
+  </main>
+
+  <footer>
+    <span class="copy">Hanwu-AGI © 2026</span>
+    <a href="https://github.com/Hanwu-AGI/hanwu/commits/main">view commits →</a>
+  </footer>
+
+  <script>
+    function timeAgo(iso) {
+      if (!iso) return '—';
+      const d = Math.floor((Date.now() - new Date(iso).getTime()) / 1000);
+      if (isNaN(d) || d < 0) return '—';
+      if (d < 60) return d + 's ago';
+      if (d < 3600) return Math.floor(d / 60) + 'm ago';
+      if (d < 86400) return Math.floor(d / 3600) + 'h ago';
+      return Math.floor(d / 86400) + 'd ago';
+    }
+
+    function nextCycle(iso) {
+      if (!iso) return '—';
+      const n = new Date(new Date(iso).getTime() + 30 * 60 * 1000);
+      if (isNaN(n.getTime())) return '—';
+      return String(n.getHours()).padStart(2,'0') + ':' + String(n.getMinutes()).padStart(2,'0');
+    }
+
+    async function fetchLastCommit() {
+      try {
+        const r = await fetch('https://api.github.com/repos/Hanwu-AGI/hanwu/commits/main');
+        const d = await r.json();
+        return d.commit?.committer?.date || null;
+      } catch { return null; }
+    }
+
+    async function load() {
+      try {
+        const r = await fetch('./state.json?t=' + Date.now());
+        const d = await r.json();
+
+        document.getElementById('dot').className = 'status-dot';
+        document.getElementById('status-text').textContent = 'online';
+        document.getElementById('cycle').textContent = '#' + d.cycle;
+        document.getElementById('last-heartbeat').textContent = timeAgo(d.last_update);
+        document.getElementById('next-cycle').textContent = nextCycle(d.last_update);
+        document.getElementById('win-rate').textContent = d.win_rate + '%';
+        document.getElementById('total-trades').textContent = d.total_trades;
+        document.getElementById('thinking').textContent = d.thinking || '—';
+      } catch {
+        document.getElementById('dot').className = 'status-dot dead';
+        document.getElementById('status-text').textContent = 'offline';
+        document.getElementById('subtitle').textContent = 'agent unreachable';
+      }
+
+      const commit = await fetchLastCommit();
+      document.getElementById('last-commit').textContent = timeAgo(commit);
+    }
+
+    load();
+    setInterval(load, 60000);
+  </script>
+
+</body>
+</html>
