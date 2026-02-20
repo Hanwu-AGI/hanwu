@@ -18,7 +18,7 @@ jobs:
           python-version: '3.11'
 
       - name: Run simulation cycle
-        run: python agent/autonomous_cycle.py
+        run: cd agent && python autonomous_cycle.py
 
       - name: Commit results
         run: |

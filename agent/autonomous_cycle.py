@@ -1,8 +1,13 @@
 import json
 import os
+import sys
 import random
 from datetime import datetime
+
+sys.path.insert(0, os.path.dirname(__file__))
 from simulator import TradingSimulator
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 THINKING_PHRASES = [
     "scanning for alpha...",
@@ -45,13 +50,13 @@ def run_cycle():
                 trades.append(trade)
                 print(f"💰 {trade['action']}: {trade['token']} @ {trade['amount']} ETH → {trade['outcome']} ({trade['profit_loss']:+.6f} ETH)")
 
-    save_json('data/signals.json', signals)
+    save_json(os.path.join(ROOT, 'data/signals.json'), signals)
 
-    all_trades = load_json('data/trades.json', [])
+    all_trades = load_json(os.path.join(ROOT, 'data/trades.json'), [])
     all_trades.extend(trades)
-    save_json('data/trades.json', all_trades)
+    save_json(os.path.join(ROOT, 'data/trades.json'), all_trades)
 
-    prev_state = load_json('docs/state.json', {"cycle": 0})
+    prev_state = load_json(os.path.join(ROOT, 'docs/state.json'), {"cycle": 0})
     cycle_number = prev_state.get('cycle', 0) + 1
 
     if all_trades:
@@ -81,7 +86,7 @@ def run_cycle():
             "cycle_count": cycle_number
         }
 
-    save_json('data/stats.json', stats)
+    save_json(os.path.join(ROOT, 'data/stats.json'), stats)
 
     top_signal = signals[0] if signals else None
     thinking = random.choice(THINKING_PHRASES)
@@ -96,7 +101,7 @@ def run_cycle():
         "thinking": thinking
     }
 
-    save_json('docs/state.json', state)
+    save_json(os.path.join(ROOT, 'docs/state.json'), state)
 
     print(f"\n📈 Performance Summary:")
     print(f"   Cycle: #{cycle_number}")
