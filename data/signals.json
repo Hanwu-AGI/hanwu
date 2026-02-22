@@ -1,42 +1,42 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.87,
-    "price": 0.08191557,
-    "volume_24h": 1477407.83,
-    "price_change_24h": -1.57,
-    "timestamp": "2026-02-22T07:28:26.936954"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.87,
-    "price": 0.09060233,
-    "volume_24h": 4586994.48,
-    "price_change_24h": 6.28,
-    "timestamp": "2026-02-22T07:28:26.936968"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
     "confidence": 0.83,
-    "price": 0.0981507,
-    "volume_24h": 3625203.04,
-    "price_change_24h": 1.51,
-    "timestamp": "2026-02-22T07:28:26.936943"
+    "price": 0.07534496,
+    "volume_24h": 4487921.04,
+    "price_change_24h": -9.24,
+    "timestamp": "2026-02-22T08:00:29.625937"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.76,
+    "price": 0.02950563,
+    "volume_24h": 3383194.2,
+    "price_change_24h": -11.03,
+    "timestamp": "2026-02-22T08:00:29.625944"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.67,
-    "price": 0.05064634,
-    "volume_24h": 3012505.48,
-    "price_change_24h": 17.33,
-    "timestamp": "2026-02-22T07:28:26.936961"
+    "confidence": 0.75,
+    "price": 0.08555986,
+    "volume_24h": 4274478.27,
+    "price_change_24h": 11.52,
+    "timestamp": "2026-02-22T08:00:29.625918"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.73,
+    "price": 0.07384704,
+    "volume_24h": 4083280.16,
+    "price_change_24h": 13.23,
+    "timestamp": "2026-02-22T08:00:29.625928"
   }
 ]
