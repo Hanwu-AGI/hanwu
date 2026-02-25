@@ -1,52 +1,42 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.79,
-    "price": 0.07150476,
-    "volume_24h": 253829.7,
-    "price_change_24h": 7.58,
-    "timestamp": "2026-02-25T19:59:48.126787"
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.9,
+    "price": 0.00273081,
+    "volume_24h": 1075362.13,
+    "price_change_24h": -4.95,
+    "timestamp": "2026-02-25T21:49:46.782308"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.79,
-    "price": 0.07122421,
-    "volume_24h": 2479080.69,
-    "price_change_24h": 10.83,
-    "timestamp": "2026-02-25T19:59:48.126793"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "HOLD",
-    "confidence": 0.77,
-    "price": 0.03262772,
-    "volume_24h": 2743043.92,
-    "price_change_24h": -5.6,
-    "timestamp": "2026-02-25T19:59:48.126779"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.68,
-    "price": 0.03157325,
-    "volume_24h": 2045536.82,
-    "price_change_24h": -11.4,
-    "timestamp": "2026-02-25T19:59:48.126771"
+    "confidence": 0.87,
+    "price": 0.01944523,
+    "volume_24h": 3433096.07,
+    "price_change_24h": -2.73,
+    "timestamp": "2026-02-25T21:49:46.782300"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.67,
-    "price": 0.06483461,
-    "volume_24h": 1947579.03,
-    "price_change_24h": -0.57,
-    "timestamp": "2026-02-25T19:59:48.126760"
+    "signal": "HOLD",
+    "confidence": 0.85,
+    "price": 0.07963936,
+    "volume_24h": 1149093.75,
+    "price_change_24h": -3.62,
+    "timestamp": "2026-02-25T21:49:46.782350"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "SELL",
+    "confidence": 0.76,
+    "price": 0.08144413,
+    "volume_24h": 2807557.93,
+    "price_change_24h": 17.83,
+    "timestamp": "2026-02-25T21:49:46.782289"
   }
 ]
