@@ -1,42 +1,52 @@
 [
   {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "SELL",
+    "confidence": 0.87,
+    "price": 0.01515651,
+    "volume_24h": 157463.98,
+    "price_change_24h": -10.2,
+    "timestamp": "2026-02-28T13:48:38.095227"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "SELL",
+    "confidence": 0.78,
+    "price": 0.02852651,
+    "volume_24h": 587474.94,
+    "price_change_24h": 17.61,
+    "timestamp": "2026-02-28T13:48:38.095208"
+  },
+  {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.98,
-    "price": 0.08310091,
-    "volume_24h": 1751201.39,
-    "price_change_24h": 4.62,
-    "timestamp": "2026-02-28T11:33:43.820950"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.85,
-    "price": 0.07731912,
-    "volume_24h": 4291076.81,
-    "price_change_24h": -7.92,
-    "timestamp": "2026-02-28T11:33:43.820962"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.81,
-    "price": 0.09152867,
-    "volume_24h": 923749.59,
-    "price_change_24h": 22.1,
-    "timestamp": "2026-02-28T11:33:43.820970"
+    "confidence": 0.74,
+    "price": 0.03187038,
+    "volume_24h": 2578252.52,
+    "price_change_24h": 7.16,
+    "timestamp": "2026-02-28T13:48:38.095234"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.66,
-    "price": 0.08495113,
-    "volume_24h": 4453069.32,
-    "price_change_24h": 17.08,
-    "timestamp": "2026-02-28T11:33:43.820976"
+    "signal": "HOLD",
+    "confidence": 0.72,
+    "price": 0.04049297,
+    "volume_24h": 1455207.86,
+    "price_change_24h": 15.2,
+    "timestamp": "2026-02-28T13:48:38.095218"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
+    "confidence": 0.72,
+    "price": 0.04648852,
+    "volume_24h": 2611073.61,
+    "price_change_24h": 6.52,
+    "timestamp": "2026-02-28T13:48:38.095240"
   }
 ]
