@@ -4,49 +4,49 @@
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
     "confidence": 0.94,
-    "price": 0.02370695,
-    "volume_24h": 1035780.93,
-    "price_change_24h": 3.04,
-    "timestamp": "2026-03-01T05:11:06.919056"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.85,
-    "price": 0.09958391,
-    "volume_24h": 2928049.89,
-    "price_change_24h": 19.32,
-    "timestamp": "2026-03-01T05:11:06.919062"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.82,
-    "price": 0.06272425,
-    "volume_24h": 2233812.59,
-    "price_change_24h": -1.26,
-    "timestamp": "2026-03-01T05:11:06.919030"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.73,
-    "price": 0.0884837,
-    "volume_24h": 2674445.93,
-    "price_change_24h": -5.54,
-    "timestamp": "2026-03-01T05:11:06.919049"
+    "price": 0.0001439,
+    "volume_24h": 4732894.43,
+    "price_change_24h": -7.45,
+    "timestamp": "2026-03-01T07:23:18.478710"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.65,
-    "price": 0.00542255,
-    "volume_24h": 428698.01,
-    "price_change_24h": -6.57,
-    "timestamp": "2026-03-01T05:11:06.919041"
+    "confidence": 0.93,
+    "price": 0.02217442,
+    "volume_24h": 448537.3,
+    "price_change_24h": 21.13,
+    "timestamp": "2026-03-01T07:23:18.478695"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.84,
+    "price": 0.02208165,
+    "volume_24h": 3047143.33,
+    "price_change_24h": -5.4,
+    "timestamp": "2026-03-01T07:23:18.478717"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.81,
+    "price": 0.02186511,
+    "volume_24h": 1746732.34,
+    "price_change_24h": 12.65,
+    "timestamp": "2026-03-01T07:23:18.478685"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.78,
+    "price": 0.04784944,
+    "volume_24h": 600738.88,
+    "price_change_24h": -9.87,
+    "timestamp": "2026-03-01T07:23:18.478703"
   }
 ]
