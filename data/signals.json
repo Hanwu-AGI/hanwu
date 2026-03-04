@@ -2,41 +2,51 @@
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.93,
+    "price": 0.01532534,
+    "volume_24h": 2408248.91,
+    "price_change_24h": 9.01,
+    "timestamp": "2026-03-04T05:01:28.422965"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "BUY",
+    "confidence": 0.81,
+    "price": 0.0843079,
+    "volume_24h": 3236026.05,
+    "price_change_24h": 18.84,
+    "timestamp": "2026-03-04T05:01:28.422983"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.69,
+    "price": 0.02968825,
+    "volume_24h": 4162737.13,
+    "price_change_24h": 7.3,
+    "timestamp": "2026-03-04T05:01:28.422975"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.96,
-    "price": 0.07649957,
-    "volume_24h": 1525079.89,
-    "price_change_24h": 12.87,
-    "timestamp": "2026-03-04T00:00:41.399481"
+    "confidence": 0.66,
+    "price": 0.04923407,
+    "volume_24h": 2689402.11,
+    "price_change_24h": 4.05,
+    "timestamp": "2026-03-04T05:01:28.422990"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.93,
-    "price": 0.03373243,
-    "volume_24h": 764008.94,
-    "price_change_24h": 4.4,
-    "timestamp": "2026-03-04T00:00:41.399455"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.7,
-    "price": 0.0105678,
-    "volume_24h": 3957370.95,
-    "price_change_24h": 15.81,
-    "timestamp": "2026-03-04T00:00:41.399465"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "HOLD",
-    "confidence": 0.67,
-    "price": 0.02578841,
-    "volume_24h": 3407561.49,
-    "price_change_24h": -6.78,
-    "timestamp": "2026-03-04T00:00:41.399474"
+    "confidence": 0.66,
+    "price": 0.09884779,
+    "volume_24h": 2421317.61,
+    "price_change_24h": -9.66,
+    "timestamp": "2026-03-04T05:01:28.422997"
   }
 ]
