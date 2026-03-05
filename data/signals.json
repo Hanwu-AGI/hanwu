@@ -3,50 +3,40 @@
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.92,
-    "price": 0.04134688,
-    "volume_24h": 3948403.6,
-    "price_change_24h": 4.2,
-    "timestamp": "2026-03-05T11:53:36.295282"
+    "confidence": 0.96,
+    "price": 0.02242168,
+    "volume_24h": 1577645.47,
+    "price_change_24h": 4.62,
+    "timestamp": "2026-03-05T14:33:19.940942"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "BUY",
-    "confidence": 0.9,
-    "price": 0.06547063,
-    "volume_24h": 4164781.13,
-    "price_change_24h": -5.48,
-    "timestamp": "2026-03-05T11:53:36.295271"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.8,
-    "price": 0.02123391,
-    "volume_24h": 3387395.62,
-    "price_change_24h": 8.72,
-    "timestamp": "2026-03-05T11:53:36.295298"
+    "confidence": 0.95,
+    "price": 0.02583532,
+    "volume_24h": 4339588.26,
+    "price_change_24h": 6.52,
+    "timestamp": "2026-03-05T14:33:19.940960"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.77,
-    "price": 0.00672126,
-    "volume_24h": 2255363.39,
-    "price_change_24h": 19.32,
-    "timestamp": "2026-03-05T11:53:36.295291"
+    "signal": "HOLD",
+    "confidence": 0.9,
+    "price": 0.02725137,
+    "volume_24h": 867525.02,
+    "price_change_24h": -13.14,
+    "timestamp": "2026-03-05T14:33:19.940967"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "BUY",
-    "confidence": 0.7,
-    "price": 0.0601827,
-    "volume_24h": 3634985.55,
-    "price_change_24h": -7.97,
-    "timestamp": "2026-03-05T11:53:36.295304"
+    "confidence": 0.87,
+    "price": 0.03187897,
+    "volume_24h": 4484025.8,
+    "price_change_24h": -2.24,
+    "timestamp": "2026-03-05T14:33:19.940952"
   }
 ]
