@@ -1,52 +1,32 @@
 [
   {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.97,
-    "price": 0.04773663,
-    "volume_24h": 4851434.1,
-    "price_change_24h": 24.0,
-    "timestamp": "2026-03-07T16:53:21.007434"
+    "confidence": 0.91,
+    "price": 0.01528857,
+    "volume_24h": 4348192.75,
+    "price_change_24h": 3.01,
+    "timestamp": "2026-03-07T17:45:13.098694"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.81,
+    "price": 0.02177542,
+    "volume_24h": 4574679.84,
+    "price_change_24h": 5.1,
+    "timestamp": "2026-03-07T17:45:13.098714"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "HOLD",
-    "confidence": 0.95,
-    "price": 0.07268972,
-    "volume_24h": 1152775.76,
-    "price_change_24h": 19.48,
-    "timestamp": "2026-03-07T16:53:21.007453"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "SELL",
-    "confidence": 0.91,
-    "price": 0.07028922,
-    "volume_24h": 4858191.64,
-    "price_change_24h": -8.56,
-    "timestamp": "2026-03-07T16:53:21.007425"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.66,
-    "price": 0.03711943,
-    "volume_24h": 2037515.51,
-    "price_change_24h": 8.01,
-    "timestamp": "2026-03-07T16:53:21.007441"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.66,
-    "price": 0.04723449,
-    "volume_24h": 3856406.88,
-    "price_change_24h": -0.0,
-    "timestamp": "2026-03-07T16:53:21.007447"
+    "confidence": 0.65,
+    "price": 0.01708328,
+    "volume_24h": 2033584.03,
+    "price_change_24h": -3.26,
+    "timestamp": "2026-03-07T17:45:13.098705"
   }
 ]
