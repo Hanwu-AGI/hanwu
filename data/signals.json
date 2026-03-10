@@ -1,32 +1,52 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "HOLD",
-    "confidence": 0.97,
-    "price": 0.03752324,
-    "volume_24h": 3102795.63,
-    "price_change_24h": -2.76,
-    "timestamp": "2026-03-10T11:52:38.453340"
+    "confidence": 0.91,
+    "price": 0.02437571,
+    "volume_24h": 1894523.21,
+    "price_change_24h": -4.66,
+    "timestamp": "2026-03-10T14:35:01.969045"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "SELL",
+    "confidence": 0.88,
+    "price": 0.01302094,
+    "volume_24h": 2585680.1,
+    "price_change_24h": 9.97,
+    "timestamp": "2026-03-10T14:35:01.969019"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.96,
-    "price": 0.0307477,
-    "volume_24h": 383029.96,
-    "price_change_24h": -3.65,
-    "timestamp": "2026-03-10T11:52:38.453351"
+    "signal": "BUY",
+    "confidence": 0.87,
+    "price": 0.02147846,
+    "volume_24h": 2331409.15,
+    "price_change_24h": 21.38,
+    "timestamp": "2026-03-10T14:35:01.969030"
   },
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
     "confidence": 0.82,
-    "price": 0.00146802,
-    "volume_24h": 4136233.49,
-    "price_change_24h": -13.49,
-    "timestamp": "2026-03-10T11:52:38.453359"
+    "price": 0.09120169,
+    "volume_24h": 312799.85,
+    "price_change_24h": 21.29,
+    "timestamp": "2026-03-10T14:35:01.969051"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "HOLD",
+    "confidence": 0.7,
+    "price": 0.04585584,
+    "volume_24h": 3554043.08,
+    "price_change_24h": 6.88,
+    "timestamp": "2026-03-10T14:35:01.969038"
   }
 ]
