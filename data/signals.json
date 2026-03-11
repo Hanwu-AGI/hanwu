@@ -1,32 +1,52 @@
 [
   {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.84,
-    "price": 0.04753277,
-    "volume_24h": 2072096.84,
-    "price_change_24h": -14.68,
-    "timestamp": "2026-03-11T21:02:19.343470"
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "HOLD",
+    "confidence": 0.98,
+    "price": 0.08821082,
+    "volume_24h": 232851.24,
+    "price_change_24h": 13.47,
+    "timestamp": "2026-03-11T22:01:53.138862"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.76,
-    "price": 0.03084965,
-    "volume_24h": 2478422.37,
-    "price_change_24h": 2.38,
-    "timestamp": "2026-03-11T21:02:19.343451"
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.92,
+    "price": 0.03344445,
+    "volume_24h": 4322111.37,
+    "price_change_24h": -10.56,
+    "timestamp": "2026-03-11T22:01:53.138855"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "SELL",
-    "confidence": 0.69,
-    "price": 0.09976919,
-    "volume_24h": 1777876.16,
-    "price_change_24h": -12.71,
-    "timestamp": "2026-03-11T21:02:19.343462"
+    "confidence": 0.91,
+    "price": 0.09942041,
+    "volume_24h": 2989416.61,
+    "price_change_24h": -7.94,
+    "timestamp": "2026-03-11T22:01:53.138840"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.9,
+    "price": 0.09422459,
+    "volume_24h": 1762491.55,
+    "price_change_24h": 7.01,
+    "timestamp": "2026-03-11T22:01:53.138848"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "HOLD",
+    "confidence": 0.73,
+    "price": 0.04974566,
+    "volume_24h": 2287107.29,
+    "price_change_24h": -13.19,
+    "timestamp": "2026-03-11T22:01:53.138830"
   }
 ]
