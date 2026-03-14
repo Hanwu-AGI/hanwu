@@ -1,7 +1,7 @@
 {
-  "cycle": 285,
-  "last_update": "2026-03-14T17:59:31.793117",
+  "cycle": 286,
+  "last_update": "2026-03-14T19:17:24.046105",
   "win_rate": 71.0,
   "total_trades": 155,
-  "thinking": "monitoring liquidity pools..."
+  "thinking": "observing the mempool..."
 }
