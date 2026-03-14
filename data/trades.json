@@ -1681,5 +1681,27 @@
     "new_balance": 1.00784,
     "confidence": 0.94,
     "timestamp": "2026-03-14T13:56:40.147302"
+  },
+  {
+    "action": "BUY",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "amount": 0.0057,
+    "outcome": "WIN",
+    "profit_loss": 0.00166,
+    "new_balance": 1.00166,
+    "confidence": 0.88,
+    "timestamp": "2026-03-14T15:52:17.813037"
+  },
+  {
+    "action": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "amount": 0.0139,
+    "outcome": "LOSS",
+    "profit_loss": -0.005367,
+    "new_balance": 0.996293,
+    "confidence": 0.86,
+    "timestamp": "2026-03-14T15:52:17.813051"
   }
 ]
