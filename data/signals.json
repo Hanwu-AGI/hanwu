@@ -1,32 +1,52 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
     "confidence": 0.85,
-    "price": 0.01677854,
-    "volume_24h": 3832109.89,
-    "price_change_24h": 0.87,
-    "timestamp": "2026-03-18T05:20:03.576762"
+    "price": 0.04938497,
+    "volume_24h": 366717.75,
+    "price_change_24h": 12.52,
+    "timestamp": "2026-03-18T08:01:51.379193"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "SELL",
-    "confidence": 0.85,
-    "price": 0.04371752,
-    "volume_24h": 4113857.94,
-    "price_change_24h": 4.06,
-    "timestamp": "2026-03-18T05:20:03.576769"
+    "signal": "BUY",
+    "confidence": 0.76,
+    "price": 0.06561198,
+    "volume_24h": 4317603.35,
+    "price_change_24h": 6.55,
+    "timestamp": "2026-03-18T08:01:51.379186"
   },
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "HOLD",
     "confidence": 0.75,
-    "price": 0.07281637,
-    "volume_24h": 1904481.18,
-    "price_change_24h": -9.38,
-    "timestamp": "2026-03-18T05:20:03.576751"
+    "price": 0.0944042,
+    "volume_24h": 4842995.86,
+    "price_change_24h": 17.16,
+    "timestamp": "2026-03-18T08:01:51.379178"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "BUY",
+    "confidence": 0.69,
+    "price": 0.02094782,
+    "volume_24h": 1926694.89,
+    "price_change_24h": 8.56,
+    "timestamp": "2026-03-18T08:01:51.379168"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "HOLD",
+    "confidence": 0.69,
+    "price": 0.06331993,
+    "volume_24h": 4092362.0,
+    "price_change_24h": -12.8,
+    "timestamp": "2026-03-18T08:01:51.379200"
   }
 ]
