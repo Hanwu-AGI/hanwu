@@ -1,52 +1,42 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.98,
-    "price": 0.08559233,
-    "volume_24h": 1379367.45,
-    "price_change_24h": -7.84,
-    "timestamp": "2026-03-19T05:15:59.189305"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.98,
-    "price": 0.06817664,
-    "volume_24h": 1328395.02,
-    "price_change_24h": 8.43,
-    "timestamp": "2026-03-19T05:15:59.189311"
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "BUY",
+    "confidence": 0.87,
+    "price": 0.01561267,
+    "volume_24h": 1658722.82,
+    "price_change_24h": -12.67,
+    "timestamp": "2026-03-19T07:54:34.886049"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.86,
-    "price": 0.03421983,
-    "volume_24h": 1690901.33,
-    "price_change_24h": 23.7,
-    "timestamp": "2026-03-19T05:15:59.189290"
+    "confidence": 0.71,
+    "price": 0.05268168,
+    "volume_24h": 3141207.85,
+    "price_change_24h": 10.45,
+    "timestamp": "2026-03-19T07:54:34.886023"
   },
   {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "BUY",
-    "confidence": 0.83,
-    "price": 0.00786904,
-    "volume_24h": 3296620.71,
-    "price_change_24h": 0.82,
-    "timestamp": "2026-03-19T05:15:59.189280"
+    "confidence": 0.68,
+    "price": 0.03897402,
+    "volume_24h": 3633329.92,
+    "price_change_24h": 0.14,
+    "timestamp": "2026-03-19T07:54:34.886034"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "HOLD",
-    "confidence": 0.73,
-    "price": 0.09964784,
-    "volume_24h": 2759550.55,
-    "price_change_24h": 23.11,
-    "timestamp": "2026-03-19T05:15:59.189298"
+    "confidence": 0.67,
+    "price": 0.08287037,
+    "volume_24h": 3938320.42,
+    "price_change_24h": 24.09,
+    "timestamp": "2026-03-19T07:54:34.886042"
   }
 ]
