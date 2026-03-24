@@ -2660,5 +2660,38 @@
     "new_balance": 1.003997,
     "confidence": 0.97,
     "timestamp": "2026-03-24T09:52:00.457813"
+  },
+  {
+    "action": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "amount": 0.0126,
+    "outcome": "WIN",
+    "profit_loss": 0.000897,
+    "new_balance": 1.000897,
+    "confidence": 0.93,
+    "timestamp": "2026-03-24T11:41:47.131610"
+  },
+  {
+    "action": "BUY",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "amount": 0.0126,
+    "outcome": "WIN",
+    "profit_loss": 0.006906,
+    "new_balance": 1.007803,
+    "confidence": 0.92,
+    "timestamp": "2026-03-24T11:41:47.131624"
+  },
+  {
+    "action": "BUY",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "amount": 0.0083,
+    "outcome": "WIN",
+    "profit_loss": 0.005583,
+    "new_balance": 1.013386,
+    "confidence": 0.92,
+    "timestamp": "2026-03-24T11:41:47.131630"
   }
 ]
