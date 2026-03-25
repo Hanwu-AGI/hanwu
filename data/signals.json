@@ -1,32 +1,52 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.84,
-    "price": 0.08075223,
-    "volume_24h": 1388617.11,
-    "price_change_24h": 17.69,
-    "timestamp": "2026-03-25T08:43:47.610503"
+    "confidence": 0.97,
+    "price": 0.06505615,
+    "volume_24h": 4398807.2,
+    "price_change_24h": 15.73,
+    "timestamp": "2026-03-25T09:49:29.020051"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "HOLD",
-    "confidence": 0.76,
-    "price": 0.04672713,
-    "volume_24h": 1463928.87,
-    "price_change_24h": 10.76,
-    "timestamp": "2026-03-25T08:43:47.610487"
+    "confidence": 0.88,
+    "price": 0.04971348,
+    "volume_24h": 3758642.83,
+    "price_change_24h": -4.3,
+    "timestamp": "2026-03-25T09:49:29.020029"
   },
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.75,
-    "price": 0.07883888,
-    "volume_24h": 3656244.16,
-    "price_change_24h": 12.57,
-    "timestamp": "2026-03-25T08:43:47.610512"
+    "confidence": 0.85,
+    "price": 0.00440932,
+    "volume_24h": 3435150.78,
+    "price_change_24h": 17.48,
+    "timestamp": "2026-03-25T09:49:29.020044"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "SELL",
+    "confidence": 0.81,
+    "price": 0.07381769,
+    "volume_24h": 746495.71,
+    "price_change_24h": 6.8,
+    "timestamp": "2026-03-25T09:49:29.020019"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.8,
+    "price": 0.09623505,
+    "volume_24h": 2841075.3,
+    "price_change_24h": -10.67,
+    "timestamp": "2026-03-25T09:49:29.020037"
   }
 ]
