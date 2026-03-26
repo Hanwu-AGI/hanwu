@@ -1,32 +1,52 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.89,
-    "price": 0.04630014,
-    "volume_24h": 960579.14,
-    "price_change_24h": -3.16,
-    "timestamp": "2026-03-26T10:48:53.544958"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.87,
-    "price": 0.09383241,
-    "volume_24h": 614517.38,
-    "price_change_24h": 1.0,
-    "timestamp": "2026-03-26T10:48:53.544967"
+    "confidence": 0.93,
+    "price": 0.04568971,
+    "volume_24h": 2447517.21,
+    "price_change_24h": -11.06,
+    "timestamp": "2026-03-26T11:46:19.180334"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "BUY",
-    "confidence": 0.78,
-    "price": 0.09442402,
-    "volume_24h": 262444.88,
-    "price_change_24h": -10.37,
-    "timestamp": "2026-03-26T10:48:53.544946"
+    "confidence": 0.84,
+    "price": 0.046394,
+    "volume_24h": 2397940.46,
+    "price_change_24h": -0.05,
+    "timestamp": "2026-03-26T11:46:19.180300"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "HOLD",
+    "confidence": 0.77,
+    "price": 0.04748935,
+    "volume_24h": 239712.89,
+    "price_change_24h": 17.81,
+    "timestamp": "2026-03-26T11:46:19.180291"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.73,
+    "price": 0.0448406,
+    "volume_24h": 3063078.3,
+    "price_change_24h": 21.49,
+    "timestamp": "2026-03-26T11:46:19.180328"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "HOLD",
+    "confidence": 0.67,
+    "price": 0.05766135,
+    "volume_24h": 4887012.88,
+    "price_change_24h": 24.0,
+    "timestamp": "2026-03-26T11:46:19.180321"
   }
 ]
