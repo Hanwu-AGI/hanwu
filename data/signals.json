@@ -1,52 +1,32 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.96,
-    "price": 0.01565851,
-    "volume_24h": 1940259.85,
-    "price_change_24h": 4.81,
-    "timestamp": "2026-03-27T20:41:32.086710"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.91,
-    "price": 0.02395726,
-    "volume_24h": 2026232.12,
-    "price_change_24h": 12.96,
-    "timestamp": "2026-03-27T20:41:32.086703"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.85,
-    "price": 0.00996487,
-    "volume_24h": 1099349.43,
-    "price_change_24h": 22.35,
-    "timestamp": "2026-03-27T20:41:32.086677"
-  },
-  {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.79,
-    "price": 0.0488174,
-    "volume_24h": 4075499.44,
-    "price_change_24h": -2.87,
-    "timestamp": "2026-03-27T20:41:32.086696"
+    "signal": "HOLD",
+    "confidence": 0.92,
+    "price": 0.06509404,
+    "volume_24h": 2587405.44,
+    "price_change_24h": 24.24,
+    "timestamp": "2026-03-27T21:29:41.247210"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.71,
-    "price": 0.01972265,
-    "volume_24h": 3336339.17,
-    "price_change_24h": 9.49,
-    "timestamp": "2026-03-27T20:41:32.086687"
+    "signal": "BUY",
+    "confidence": 0.87,
+    "price": 0.07809932,
+    "volume_24h": 4774885.48,
+    "price_change_24h": 23.47,
+    "timestamp": "2026-03-27T21:29:41.247218"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.83,
+    "price": 0.01713907,
+    "volume_24h": 3919774.83,
+    "price_change_24h": 20.0,
+    "timestamp": "2026-03-27T21:29:41.247199"
   }
 ]
