@@ -1,32 +1,52 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.94,
-    "price": 0.04927518,
-    "volume_24h": 1867650.47,
-    "price_change_24h": -3.43,
-    "timestamp": "2026-03-29T23:39:30.928964"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.81,
-    "price": 0.09198835,
-    "volume_24h": 4631148.78,
-    "price_change_24h": 0.0,
-    "timestamp": "2026-03-29T23:39:30.928953"
+    "confidence": 0.9,
+    "price": 0.05592079,
+    "volume_24h": 4466481.75,
+    "price_change_24h": 16.25,
+    "timestamp": "2026-03-30T02:02:32.334815"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "SELL",
+    "confidence": 0.89,
+    "price": 0.03896207,
+    "volume_24h": 1759829.66,
+    "price_change_24h": -0.03,
+    "timestamp": "2026-03-30T02:02:32.334830"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "SELL",
+    "confidence": 0.88,
+    "price": 0.01075819,
+    "volume_24h": 2995358.21,
+    "price_change_24h": 3.78,
+    "timestamp": "2026-03-30T02:02:32.334837"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
+    "confidence": 0.87,
+    "price": 0.03121036,
+    "volume_24h": 391509.16,
+    "price_change_24h": 16.49,
+    "timestamp": "2026-03-30T02:02:32.334823"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "HOLD",
     "confidence": 0.78,
-    "price": 0.01765866,
-    "volume_24h": 4644231.76,
-    "price_change_24h": 8.66,
-    "timestamp": "2026-03-29T23:39:30.928972"
+    "price": 0.0194812,
+    "volume_24h": 3366847.72,
+    "price_change_24h": 24.12,
+    "timestamp": "2026-03-30T02:02:32.334805"
   }
 ]
