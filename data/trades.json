@@ -3705,5 +3705,16 @@
     "new_balance": 1.007879,
     "confidence": 0.95,
     "timestamp": "2026-04-01T07:14:11.117420"
+  },
+  {
+    "action": "BUY",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "amount": 0.0091,
+    "outcome": "WIN",
+    "profit_loss": 0.002647,
+    "new_balance": 1.002647,
+    "confidence": 0.9,
+    "timestamp": "2026-04-01T10:03:01.415220"
   }
 ]
