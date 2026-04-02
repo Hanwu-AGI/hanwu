@@ -3,50 +3,40 @@
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.97,
-    "price": 0.04889316,
-    "volume_24h": 4464525.59,
-    "price_change_24h": 8.0,
-    "timestamp": "2026-04-02T05:56:05.942165"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.87,
-    "price": 0.01702189,
-    "volume_24h": 1336505.21,
-    "price_change_24h": 13.83,
-    "timestamp": "2026-04-02T05:56:05.942181"
+    "confidence": 0.86,
+    "price": 0.07086581,
+    "volume_24h": 828648.38,
+    "price_change_24h": 2.98,
+    "timestamp": "2026-04-02T07:09:54.502407"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.81,
-    "price": 0.08158484,
-    "volume_24h": 2594672.19,
-    "price_change_24h": -8.45,
-    "timestamp": "2026-04-02T05:56:05.942174"
+    "signal": "BUY",
+    "confidence": 0.82,
+    "price": 0.03582652,
+    "volume_24h": 2299775.82,
+    "price_change_24h": 5.76,
+    "timestamp": "2026-04-02T07:09:54.502415"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.75,
-    "price": 0.00475324,
-    "volume_24h": 4942000.75,
-    "price_change_24h": 4.56,
-    "timestamp": "2026-04-02T05:56:05.942155"
+    "signal": "HOLD",
+    "confidence": 0.82,
+    "price": 0.06492257,
+    "volume_24h": 1608482.06,
+    "price_change_24h": -4.99,
+    "timestamp": "2026-04-02T07:09:54.502422"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.67,
-    "price": 0.07758792,
-    "volume_24h": 4600442.73,
-    "price_change_24h": -7.84,
-    "timestamp": "2026-04-02T05:56:05.942188"
+    "confidence": 0.68,
+    "price": 0.01508223,
+    "volume_24h": 3078404.49,
+    "price_change_24h": 1.77,
+    "timestamp": "2026-04-02T07:09:54.502397"
   }
 ]
