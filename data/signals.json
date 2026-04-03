@@ -1,42 +1,52 @@
 [
   {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.97,
+    "price": 0.08408057,
+    "volume_24h": 957226.04,
+    "price_change_24h": 14.82,
+    "timestamp": "2026-04-03T05:56:25.114708"
+  },
+  {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.83,
-    "price": 0.09207712,
-    "volume_24h": 1651276.89,
-    "price_change_24h": 15.91,
-    "timestamp": "2026-04-03T04:29:25.286762"
+    "signal": "BUY",
+    "confidence": 0.91,
+    "price": 0.09432599,
+    "volume_24h": 2112597.92,
+    "price_change_24h": -3.63,
+    "timestamp": "2026-04-03T05:56:25.114721"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.81,
-    "price": 0.02768194,
-    "volume_24h": 1550291.8,
-    "price_change_24h": 10.34,
-    "timestamp": "2026-04-03T04:29:25.286787"
+    "confidence": 0.9,
+    "price": 0.07784024,
+    "volume_24h": 3647811.94,
+    "price_change_24h": 12.9,
+    "timestamp": "2026-04-03T05:56:25.114688"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.74,
-    "price": 0.06146142,
-    "volume_24h": 4247937.57,
-    "price_change_24h": 19.52,
-    "timestamp": "2026-04-03T04:29:25.286772"
+    "signal": "HOLD",
+    "confidence": 0.87,
+    "price": 0.06096507,
+    "volume_24h": 1719628.23,
+    "price_change_24h": -5.99,
+    "timestamp": "2026-04-03T05:56:25.114700"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.74,
-    "price": 0.07361532,
-    "volume_24h": 266205.26,
-    "price_change_24h": -11.05,
-    "timestamp": "2026-04-03T04:29:25.286780"
+    "signal": "BUY",
+    "confidence": 0.86,
+    "price": 0.02102121,
+    "volume_24h": 2025945.42,
+    "price_change_24h": 18.46,
+    "timestamp": "2026-04-03T05:56:25.114715"
   }
 ]
