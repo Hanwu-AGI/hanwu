@@ -5278,5 +5278,16 @@
     "new_balance": 1.010226,
     "confidence": 0.89,
     "timestamp": "2026-04-11T14:32:55.746763"
+  },
+  {
+    "action": "BUY",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "amount": 0.0068,
+    "outcome": "LOSS",
+    "profit_loss": -0.001318,
+    "new_balance": 0.998682,
+    "confidence": 0.91,
+    "timestamp": "2026-04-11T16:39:47.505717"
   }
 ]
