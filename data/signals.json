@@ -1,42 +1,42 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.96,
-    "price": 0.08973432,
-    "volume_24h": 2842610.98,
-    "price_change_24h": -8.68,
-    "timestamp": "2026-04-12T20:29:58.250556"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.81,
-    "price": 0.02668982,
-    "volume_24h": 2829021.24,
-    "price_change_24h": 16.81,
-    "timestamp": "2026-04-12T20:29:58.250574"
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "SELL",
+    "confidence": 0.98,
+    "price": 0.00674243,
+    "volume_24h": 4630839.38,
+    "price_change_24h": -2.92,
+    "timestamp": "2026-04-12T21:03:20.405029"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.7,
-    "price": 0.01095531,
-    "volume_24h": 993455.64,
-    "price_change_24h": 12.11,
-    "timestamp": "2026-04-12T20:29:58.250567"
+    "confidence": 0.8,
+    "price": 0.06275047,
+    "volume_24h": 3580536.31,
+    "price_change_24h": 7.1,
+    "timestamp": "2026-04-12T21:03:20.405020"
   },
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.67,
-    "price": 0.05136142,
-    "volume_24h": 637541.69,
-    "price_change_24h": -7.01,
-    "timestamp": "2026-04-12T20:29:58.250581"
+    "confidence": 0.68,
+    "price": 0.07048268,
+    "volume_24h": 1600102.21,
+    "price_change_24h": -5.37,
+    "timestamp": "2026-04-12T21:03:20.405042"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.65,
+    "price": 0.08151943,
+    "volume_24h": 4671466.26,
+    "price_change_24h": -12.46,
+    "timestamp": "2026-04-12T21:03:20.405036"
   }
 ]
