@@ -5432,5 +5432,16 @@
     "new_balance": 1.00211,
     "confidence": 0.93,
     "timestamp": "2026-04-12T12:52:32.844570"
+  },
+  {
+    "action": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "amount": 0.0147,
+    "outcome": "WIN",
+    "profit_loss": 0.005625,
+    "new_balance": 1.005625,
+    "confidence": 0.86,
+    "timestamp": "2026-04-12T13:57:34.039281"
   }
 ]
