@@ -5531,5 +5531,49 @@
     "new_balance": 0.997467,
     "confidence": 0.93,
     "timestamp": "2026-04-13T14:59:07.168272"
+  },
+  {
+    "action": "BUY",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "amount": 0.0053,
+    "outcome": "LOSS",
+    "profit_loss": -0.001771,
+    "new_balance": 0.998229,
+    "confidence": 0.98,
+    "timestamp": "2026-04-13T16:19:12.139170"
+  },
+  {
+    "action": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "amount": 0.0056,
+    "outcome": "WIN",
+    "profit_loss": 0.004309,
+    "new_balance": 1.002537,
+    "confidence": 0.9,
+    "timestamp": "2026-04-13T16:19:12.139183"
+  },
+  {
+    "action": "BUY",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "amount": 0.0079,
+    "outcome": "LOSS",
+    "profit_loss": -0.000873,
+    "new_balance": 1.001665,
+    "confidence": 0.87,
+    "timestamp": "2026-04-13T16:19:12.139191"
+  },
+  {
+    "action": "BUY",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "amount": 0.0086,
+    "outcome": "WIN",
+    "profit_loss": 0.003983,
+    "new_balance": 1.005647,
+    "confidence": 0.87,
+    "timestamp": "2026-04-13T16:19:12.139196"
   }
 ]
