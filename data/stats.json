@@ -1,10 +1,10 @@
 {
-  "total_trades": 539,
-  "total_wins": 364,
+  "total_trades": 541,
+  "total_wins": 366,
   "total_losses": 175,
-  "win_rate": 67.5,
-  "total_profit": 1.056214,
-  "current_balance": 2.056214,
-  "last_update": "2026-04-16T18:04:20.645960",
-  "cycle_count": 892
+  "win_rate": 67.7,
+  "total_profit": 1.065227,
+  "current_balance": 2.065227,
+  "last_update": "2026-04-16T19:43:38.375729",
+  "cycle_count": 893
 }
