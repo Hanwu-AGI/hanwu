@@ -1,32 +1,52 @@
 [
   {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "SELL",
+    "confidence": 0.98,
+    "price": 0.05826957,
+    "volume_24h": 2930746.17,
+    "price_change_24h": 7.79,
+    "timestamp": "2026-04-19T03:27:52.471279"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "HOLD",
+    "confidence": 0.93,
+    "price": 0.09179391,
+    "volume_24h": 3811372.59,
+    "price_change_24h": 17.97,
+    "timestamp": "2026-04-19T03:27:52.471296"
+  },
+  {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.92,
-    "price": 0.02014337,
-    "volume_24h": 4482769.26,
-    "price_change_24h": 7.96,
-    "timestamp": "2026-04-18T23:58:46.540857"
+    "signal": "HOLD",
+    "confidence": 0.93,
+    "price": 0.05785023,
+    "volume_24h": 4286876.98,
+    "price_change_24h": 23.52,
+    "timestamp": "2026-04-19T03:27:52.471303"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "HOLD",
+    "confidence": 0.9,
+    "price": 0.06727678,
+    "volume_24h": 3555778.01,
+    "price_change_24h": 3.98,
+    "timestamp": "2026-04-19T03:27:52.471289"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.79,
-    "price": 0.05536673,
-    "volume_24h": 285606.94,
-    "price_change_24h": 3.08,
-    "timestamp": "2026-04-18T23:58:46.540875"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.71,
-    "price": 0.06012137,
-    "volume_24h": 4338060.43,
-    "price_change_24h": 20.19,
-    "timestamp": "2026-04-18T23:58:46.540867"
+    "signal": "BUY",
+    "confidence": 0.77,
+    "price": 0.00792758,
+    "volume_24h": 592294.38,
+    "price_change_24h": 17.55,
+    "timestamp": "2026-04-19T03:27:52.471310"
   }
 ]
