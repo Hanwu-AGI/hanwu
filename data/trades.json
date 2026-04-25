@@ -6818,5 +6818,16 @@
     "new_balance": 1.002715,
     "confidence": 0.94,
     "timestamp": "2026-04-25T13:22:02.865068"
+  },
+  {
+    "action": "BUY",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "amount": 0.0054,
+    "outcome": "WIN",
+    "profit_loss": 0.002508,
+    "new_balance": 1.002508,
+    "confidence": 0.9,
+    "timestamp": "2026-04-25T16:02:44.568165"
   }
 ]
