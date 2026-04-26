@@ -1,52 +1,32 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.9,
-    "price": 0.02195652,
-    "volume_24h": 3368950.2,
-    "price_change_24h": 21.03,
-    "timestamp": "2026-04-26T16:03:48.024451"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.85,
-    "price": 0.07169961,
-    "volume_24h": 884081.43,
-    "price_change_24h": 24.12,
-    "timestamp": "2026-04-26T16:03:48.024465"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.84,
-    "price": 0.05029877,
-    "volume_24h": 329096.95,
-    "price_change_24h": 9.8,
-    "timestamp": "2026-04-26T16:03:48.024459"
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "HOLD",
+    "confidence": 0.94,
+    "price": 0.04771153,
+    "volume_24h": 1872030.39,
+    "price_change_24h": -8.82,
+    "timestamp": "2026-04-26T17:08:06.739484"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.77,
-    "price": 0.04137216,
-    "volume_24h": 659305.66,
-    "price_change_24h": -8.41,
-    "timestamp": "2026-04-26T16:03:48.024432"
+    "signal": "HOLD",
+    "confidence": 0.9,
+    "price": 0.06767744,
+    "volume_24h": 1518573.7,
+    "price_change_24h": 19.69,
+    "timestamp": "2026-04-26T17:08:06.739492"
   },
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.71,
-    "price": 0.08397946,
-    "volume_24h": 3047511.27,
-    "price_change_24h": -2.5,
-    "timestamp": "2026-04-26T16:03:48.024443"
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "HOLD",
+    "confidence": 0.73,
+    "price": 0.03552852,
+    "volume_24h": 1076962.75,
+    "price_change_24h": 22.77,
+    "timestamp": "2026-04-26T17:08:06.739473"
   }
 ]
