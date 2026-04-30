@@ -1,32 +1,32 @@
 [
   {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "HOLD",
+    "confidence": 0.82,
+    "price": 0.05407225,
+    "volume_24h": 2054742.79,
+    "price_change_24h": 14.6,
+    "timestamp": "2026-04-30T10:23:00.984958"
+  },
+  {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.78,
+    "price": 0.0219851,
+    "volume_24h": 4634341.91,
+    "price_change_24h": 19.01,
+    "timestamp": "2026-04-30T10:23:00.984945"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "SELL",
-    "confidence": 0.9,
-    "price": 0.00660244,
-    "volume_24h": 4246487.95,
-    "price_change_24h": -14.78,
-    "timestamp": "2026-04-30T08:12:04.891658"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.88,
-    "price": 0.00724296,
-    "volume_24h": 1422175.37,
-    "price_change_24h": 14.53,
-    "timestamp": "2026-04-30T08:12:04.891677"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.86,
-    "price": 0.01520409,
-    "volume_24h": 3901567.13,
-    "price_change_24h": 0.49,
-    "timestamp": "2026-04-30T08:12:04.891669"
+    "confidence": 0.69,
+    "price": 0.06771328,
+    "volume_24h": 3338196.24,
+    "price_change_24h": 17.11,
+    "timestamp": "2026-04-30T10:23:00.984953"
   }
 ]
