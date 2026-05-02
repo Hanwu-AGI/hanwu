@@ -1,52 +1,32 @@
 [
   {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "HOLD",
     "confidence": 0.97,
-    "price": 0.06269275,
-    "volume_24h": 4175574.15,
-    "price_change_24h": 5.17,
-    "timestamp": "2026-05-02T22:35:16.303762"
+    "price": 0.03701477,
+    "volume_24h": 3509919.6,
+    "price_change_24h": -9.03,
+    "timestamp": "2026-05-02T23:37:52.772417"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "SELL",
+    "confidence": 0.87,
+    "price": 0.01751741,
+    "volume_24h": 3950081.23,
+    "price_change_24h": 23.09,
+    "timestamp": "2026-05-02T23:37:52.772423"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.92,
-    "price": 0.05519335,
-    "volume_24h": 1205067.18,
-    "price_change_24h": 24.82,
-    "timestamp": "2026-05-02T22:35:16.303688"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "HOLD",
-    "confidence": 0.82,
-    "price": 0.0770119,
-    "volume_24h": 777110.22,
-    "price_change_24h": -0.46,
-    "timestamp": "2026-05-02T22:35:16.303747"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "SELL",
-    "confidence": 0.73,
-    "price": 0.07205724,
-    "volume_24h": 2623434.68,
-    "price_change_24h": 4.07,
-    "timestamp": "2026-05-02T22:35:16.303698"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.69,
-    "price": 0.07814849,
-    "volume_24h": 4988356.75,
-    "price_change_24h": 5.23,
-    "timestamp": "2026-05-02T22:35:16.303771"
+    "confidence": 0.76,
+    "price": 0.02022124,
+    "volume_24h": 271862.48,
+    "price_change_24h": 16.64,
+    "timestamp": "2026-05-02T23:37:52.772407"
   }
 ]
