@@ -1,32 +1,52 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.98,
-    "price": 0.06791445,
-    "volume_24h": 452568.64,
-    "price_change_24h": 19.27,
-    "timestamp": "2026-05-05T07:30:36.160895"
+    "confidence": 0.94,
+    "price": 0.0036909,
+    "volume_24h": 1472265.49,
+    "price_change_24h": 6.97,
+    "timestamp": "2026-05-05T09:57:47.292926"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
+    "confidence": 0.84,
+    "price": 0.00456073,
+    "volume_24h": 1724477.24,
+    "price_change_24h": -12.28,
+    "timestamp": "2026-05-05T09:57:47.292911"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.82,
+    "price": 0.08682319,
+    "volume_24h": 720631.95,
+    "price_change_24h": 15.31,
+    "timestamp": "2026-05-05T09:57:47.292919"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.78,
-    "price": 0.08284381,
-    "volume_24h": 2268912.96,
-    "price_change_24h": 17.62,
-    "timestamp": "2026-05-05T07:30:36.160887"
+    "confidence": 0.79,
+    "price": 0.04695528,
+    "volume_24h": 3310198.84,
+    "price_change_24h": -3.27,
+    "timestamp": "2026-05-05T09:57:47.292900"
   },
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "BUY",
-    "confidence": 0.65,
-    "price": 0.06785529,
-    "volume_24h": 2784184.98,
-    "price_change_24h": 7.1,
-    "timestamp": "2026-05-05T07:30:36.160876"
+    "confidence": 0.71,
+    "price": 0.00869751,
+    "volume_24h": 2282507.73,
+    "price_change_24h": 7.9,
+    "timestamp": "2026-05-05T09:57:47.292933"
   }
 ]
