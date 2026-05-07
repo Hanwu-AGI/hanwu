@@ -1,42 +1,52 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.86,
-    "price": 0.05181392,
-    "volume_24h": 2428214.57,
-    "price_change_24h": 3.97,
-    "timestamp": "2026-05-07T12:26:32.750503"
+    "confidence": 0.95,
+    "price": 0.0313562,
+    "volume_24h": 2627052.83,
+    "price_change_24h": 16.87,
+    "timestamp": "2026-05-07T15:11:43.831145"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "SELL",
+    "confidence": 0.91,
+    "price": 0.0820174,
+    "volume_24h": 4568942.74,
+    "price_change_24h": 22.53,
+    "timestamp": "2026-05-07T15:11:43.831127"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.82,
-    "price": 0.04391184,
-    "volume_24h": 1062679.82,
-    "price_change_24h": 13.52,
-    "timestamp": "2026-05-07T12:26:32.750519"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.81,
-    "price": 0.02521232,
-    "volume_24h": 4983791.11,
-    "price_change_24h": 23.76,
-    "timestamp": "2026-05-07T12:26:32.750512"
+    "signal": "SELL",
+    "confidence": 0.89,
+    "price": 0.07804336,
+    "volume_24h": 4055425.7,
+    "price_change_24h": -11.78,
+    "timestamp": "2026-05-07T15:11:43.831152"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.69,
-    "price": 0.06514132,
-    "volume_24h": 4048924.31,
-    "price_change_24h": -4.78,
-    "timestamp": "2026-05-07T12:26:32.750492"
+    "signal": "HOLD",
+    "confidence": 0.77,
+    "price": 0.04905764,
+    "volume_24h": 2084200.88,
+    "price_change_24h": -12.67,
+    "timestamp": "2026-05-07T15:11:43.831137"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.77,
+    "price": 0.03072482,
+    "volume_24h": 4208044.86,
+    "price_change_24h": 11.48,
+    "timestamp": "2026-05-07T15:11:43.831158"
   }
 ]
