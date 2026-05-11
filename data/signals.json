@@ -1,32 +1,52 @@
 [
   {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.93,
+    "price": 0.07347432,
+    "volume_24h": 120160.4,
+    "price_change_24h": 14.29,
+    "timestamp": "2026-05-11T02:42:09.583129"
+  },
+  {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.97,
-    "price": 0.07292872,
-    "volume_24h": 2168591.6,
-    "price_change_24h": -14.45,
-    "timestamp": "2026-05-10T23:46:21.984565"
+    "signal": "HOLD",
+    "confidence": 0.93,
+    "price": 0.06285297,
+    "volume_24h": 1042714.08,
+    "price_change_24h": 1.46,
+    "timestamp": "2026-05-11T02:42:09.583162"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "HOLD",
+    "confidence": 0.87,
+    "price": 0.04846123,
+    "volume_24h": 4921021.38,
+    "price_change_24h": 18.68,
+    "timestamp": "2026-05-11T02:42:09.583147"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.78,
+    "price": 0.00999675,
+    "volume_24h": 519351.0,
+    "price_change_24h": 24.29,
+    "timestamp": "2026-05-11T02:42:09.583155"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.83,
-    "price": 0.04010172,
-    "volume_24h": 3417492.16,
-    "price_change_24h": 16.36,
-    "timestamp": "2026-05-10T23:46:21.984556"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.76,
-    "price": 0.00026801,
-    "volume_24h": 1885111.63,
-    "price_change_24h": -10.63,
-    "timestamp": "2026-05-10T23:46:21.984545"
+    "signal": "HOLD",
+    "confidence": 0.73,
+    "price": 0.00609613,
+    "volume_24h": 1614782.89,
+    "price_change_24h": 3.62,
+    "timestamp": "2026-05-11T02:42:09.583139"
   }
 ]
