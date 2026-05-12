@@ -3,50 +3,40 @@
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.95,
-    "price": 0.08137935,
-    "volume_24h": 1279116.31,
-    "price_change_24h": 9.54,
-    "timestamp": "2026-05-12T02:35:03.734318"
+    "confidence": 0.97,
+    "price": 0.04462831,
+    "volume_24h": 2273622.33,
+    "price_change_24h": 11.61,
+    "timestamp": "2026-05-12T06:10:10.637687"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
+    "signal": "HOLD",
     "confidence": 0.88,
-    "price": 0.05434056,
-    "volume_24h": 640981.76,
-    "price_change_24h": 10.03,
-    "timestamp": "2026-05-12T02:35:03.734330"
+    "price": 0.01165317,
+    "volume_24h": 2438985.14,
+    "price_change_24h": 16.02,
+    "timestamp": "2026-05-12T06:10:10.637672"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.8,
-    "price": 0.02538723,
-    "volume_24h": 4701600.74,
-    "price_change_24h": 11.1,
-    "timestamp": "2026-05-12T02:35:03.734336"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.75,
-    "price": 0.0123144,
-    "volume_24h": 4756315.09,
-    "price_change_24h": 23.05,
-    "timestamp": "2026-05-12T02:35:03.734324"
+    "signal": "HOLD",
+    "confidence": 0.83,
+    "price": 0.04475614,
+    "volume_24h": 836210.25,
+    "price_change_24h": -14.96,
+    "timestamp": "2026-05-12T06:10:10.637661"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "SELL",
-    "confidence": 0.73,
-    "price": 0.05350905,
-    "volume_24h": 3987340.84,
-    "price_change_24h": 16.63,
-    "timestamp": "2026-05-12T02:35:03.734309"
+    "signal": "HOLD",
+    "confidence": 0.81,
+    "price": 0.06027847,
+    "volume_24h": 1315486.21,
+    "price_change_24h": -0.22,
+    "timestamp": "2026-05-12T06:10:10.637680"
   }
 ]
