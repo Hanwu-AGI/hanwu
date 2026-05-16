@@ -1,32 +1,52 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.97,
-    "price": 0.04817059,
-    "volume_24h": 4054413.19,
-    "price_change_24h": -4.57,
-    "timestamp": "2026-05-16T20:01:25.393115"
+    "confidence": 0.85,
+    "price": 0.04516622,
+    "volume_24h": 4048761.71,
+    "price_change_24h": -3.21,
+    "timestamp": "2026-05-16T21:09:04.269892"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "SELL",
-    "confidence": 0.72,
-    "price": 0.00171007,
-    "volume_24h": 3910326.11,
-    "price_change_24h": 4.34,
-    "timestamp": "2026-05-16T20:01:25.393106"
+    "signal": "HOLD",
+    "confidence": 0.84,
+    "price": 0.08650777,
+    "volume_24h": 2246008.51,
+    "price_change_24h": 7.05,
+    "timestamp": "2026-05-16T21:09:04.269899"
   },
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "HOLD",
-    "confidence": 0.69,
-    "price": 0.08498693,
-    "volume_24h": 4783977.65,
-    "price_change_24h": 13.02,
-    "timestamp": "2026-05-16T20:01:25.393095"
+    "confidence": 0.83,
+    "price": 0.09425462,
+    "volume_24h": 4663660.34,
+    "price_change_24h": 10.58,
+    "timestamp": "2026-05-16T21:09:04.269905"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.71,
+    "price": 0.07088421,
+    "volume_24h": 3265807.03,
+    "price_change_24h": -10.93,
+    "timestamp": "2026-05-16T21:09:04.269873"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
+    "confidence": 0.71,
+    "price": 0.08091438,
+    "volume_24h": 911860.76,
+    "price_change_24h": 11.13,
+    "timestamp": "2026-05-16T21:09:04.269884"
   }
 ]
