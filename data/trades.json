@@ -8556,5 +8556,27 @@
     "new_balance": 1.003958,
     "confidence": 0.91,
     "timestamp": "2026-05-18T05:45:23.828888"
+  },
+  {
+    "action": "BUY",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "amount": 0.0081,
+    "outcome": "WIN",
+    "profit_loss": 0.00467,
+    "new_balance": 1.00467,
+    "confidence": 0.96,
+    "timestamp": "2026-05-18T09:52:11.837274"
+  },
+  {
+    "action": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "amount": 0.0061,
+    "outcome": "LOSS",
+    "profit_loss": -0.00158,
+    "new_balance": 1.003091,
+    "confidence": 0.86,
+    "timestamp": "2026-05-18T09:52:11.837289"
   }
 ]
