@@ -1,32 +1,52 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.91,
-    "price": 0.04059369,
-    "volume_24h": 1190057.19,
-    "price_change_24h": 13.03,
-    "timestamp": "2026-05-19T22:42:44.308114"
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "SELL",
+    "confidence": 0.98,
+    "price": 0.00603291,
+    "volume_24h": 758857.8,
+    "price_change_24h": 8.81,
+    "timestamp": "2026-05-19T23:58:58.470786"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "BUY",
+    "confidence": 0.92,
+    "price": 0.08539945,
+    "volume_24h": 2782495.27,
+    "price_change_24h": 9.02,
+    "timestamp": "2026-05-19T23:58:58.470761"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.83,
+    "price": 0.07453343,
+    "volume_24h": 2165950.07,
+    "price_change_24h": 0.82,
+    "timestamp": "2026-05-19T23:58:58.470775"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "SELL",
-    "confidence": 0.76,
-    "price": 0.03420715,
-    "volume_24h": 1141308.3,
-    "price_change_24h": -13.44,
-    "timestamp": "2026-05-19T22:42:44.308095"
+    "confidence": 0.82,
+    "price": 0.07530198,
+    "volume_24h": 1555372.99,
+    "price_change_24h": 16.09,
+    "timestamp": "2026-05-19T23:58:58.470780"
   },
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.75,
-    "price": 0.06905123,
-    "volume_24h": 649988.54,
-    "price_change_24h": 24.54,
-    "timestamp": "2026-05-19T22:42:44.308106"
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.77,
+    "price": 0.00684297,
+    "volume_24h": 780174.93,
+    "price_change_24h": 5.08,
+    "timestamp": "2026-05-19T23:58:58.470769"
   }
 ]
