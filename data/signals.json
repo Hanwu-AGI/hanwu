@@ -1,52 +1,32 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.97,
-    "price": 0.00059029,
-    "volume_24h": 3681692.22,
-    "price_change_24h": -6.12,
-    "timestamp": "2026-05-28T22:38:48.579874"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.93,
-    "price": 0.01914047,
-    "volume_24h": 3972278.16,
-    "price_change_24h": 10.31,
-    "timestamp": "2026-05-28T22:38:48.579868"
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "BUY",
+    "confidence": 0.86,
+    "price": 0.08118282,
+    "volume_24h": 1207395.33,
+    "price_change_24h": 8.47,
+    "timestamp": "2026-05-29T00:07:01.853664"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "HOLD",
-    "confidence": 0.86,
-    "price": 0.08136251,
-    "volume_24h": 1564974.51,
-    "price_change_24h": 22.1,
-    "timestamp": "2026-05-28T22:38:48.579841"
+    "confidence": 0.77,
+    "price": 0.06450986,
+    "volume_24h": 1197343.17,
+    "price_change_24h": -6.28,
+    "timestamp": "2026-05-29T00:07:01.853656"
   },
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.74,
-    "price": 0.09370877,
-    "volume_24h": 2594611.98,
-    "price_change_24h": -12.72,
-    "timestamp": "2026-05-28T22:38:48.579853"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "HOLD",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
     "confidence": 0.73,
-    "price": 0.08283415,
-    "volume_24h": 4972475.42,
-    "price_change_24h": -10.9,
-    "timestamp": "2026-05-28T22:38:48.579861"
+    "price": 0.06669337,
+    "volume_24h": 349357.57,
+    "price_change_24h": 10.22,
+    "timestamp": "2026-05-29T00:07:01.853645"
   }
 ]
