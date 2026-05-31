@@ -9425,5 +9425,16 @@
     "new_balance": 0.995027,
     "confidence": 0.98,
     "timestamp": "2026-05-30T23:59:57.446401"
+  },
+  {
+    "action": "BUY",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "amount": 0.0134,
+    "outcome": "LOSS",
+    "profit_loss": -0.002516,
+    "new_balance": 0.997484,
+    "confidence": 0.95,
+    "timestamp": "2026-05-31T08:11:25.591733"
   }
 ]
