@@ -1,52 +1,32 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.95,
-    "price": 0.07332998,
-    "volume_24h": 1292409.23,
-    "price_change_24h": 18.93,
-    "timestamp": "2026-06-08T10:00:21.659991"
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "SELL",
+    "confidence": 0.82,
+    "price": 0.0770083,
+    "volume_24h": 1657283.59,
+    "price_change_24h": -12.03,
+    "timestamp": "2026-06-08T14:32:10.733393"
   },
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.9,
-    "price": 0.03023999,
-    "volume_24h": 1456353.17,
-    "price_change_24h": -8.46,
-    "timestamp": "2026-06-08T10:00:21.659967"
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "SELL",
+    "confidence": 0.78,
+    "price": 0.02601357,
+    "volume_24h": 977653.91,
+    "price_change_24h": 19.5,
+    "timestamp": "2026-06-08T14:32:10.733404"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.72,
-    "price": 0.02930437,
-    "volume_24h": 1851484.81,
-    "price_change_24h": -7.81,
-    "timestamp": "2026-06-08T10:00:21.659985"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "HOLD",
-    "confidence": 0.7,
-    "price": 0.0069081,
-    "volume_24h": 287576.58,
-    "price_change_24h": -7.25,
-    "timestamp": "2026-06-08T10:00:21.659977"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "SELL",
-    "confidence": 0.7,
-    "price": 0.09501235,
-    "volume_24h": 1860422.73,
-    "price_change_24h": 24.91,
-    "timestamp": "2026-06-08T10:00:21.659997"
+    "confidence": 0.65,
+    "price": 0.04374586,
+    "volume_24h": 3843161.13,
+    "price_change_24h": -8.69,
+    "timestamp": "2026-06-08T14:32:10.733412"
   }
 ]
