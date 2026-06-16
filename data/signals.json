@@ -1,42 +1,42 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "SELL",
-    "confidence": 0.88,
-    "price": 0.03222349,
-    "volume_24h": 1273443.81,
-    "price_change_24h": 4.18,
-    "timestamp": "2026-06-16T00:08:24.142824"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.84,
-    "price": 0.01678346,
-    "volume_24h": 2098074.41,
-    "price_change_24h": 14.26,
-    "timestamp": "2026-06-16T00:08:24.142842"
-  },
-  {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.73,
-    "price": 0.05794045,
-    "volume_24h": 3117565.0,
-    "price_change_24h": 11.46,
-    "timestamp": "2026-06-16T00:08:24.142850"
+    "signal": "BUY",
+    "confidence": 0.97,
+    "price": 0.01489098,
+    "volume_24h": 1806215.39,
+    "price_change_24h": 13.8,
+    "timestamp": "2026-06-16T05:43:33.271703"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "BUY",
+    "confidence": 0.88,
+    "price": 0.01329528,
+    "volume_24h": 3045847.87,
+    "price_change_24h": -3.83,
+    "timestamp": "2026-06-16T05:43:33.271694"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.78,
+    "price": 0.04180713,
+    "volume_24h": 4231624.1,
+    "price_change_24h": -3.45,
+    "timestamp": "2026-06-16T05:43:33.271710"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.66,
-    "price": 0.08703197,
-    "volume_24h": 1128418.06,
-    "price_change_24h": -12.95,
-    "timestamp": "2026-06-16T00:08:24.142834"
+    "signal": "SELL",
+    "confidence": 0.73,
+    "price": 0.09148982,
+    "volume_24h": 3860123.87,
+    "price_change_24h": -2.04,
+    "timestamp": "2026-06-16T05:43:33.271683"
   }
 ]
