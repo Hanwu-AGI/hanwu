@@ -1,52 +1,32 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.94,
-    "price": 0.02147266,
-    "volume_24h": 3326590.75,
-    "price_change_24h": 0.91,
-    "timestamp": "2026-06-21T03:37:30.743295"
+    "confidence": 0.73,
+    "price": 0.05897774,
+    "volume_24h": 1372287.29,
+    "price_change_24h": -0.75,
+    "timestamp": "2026-06-21T08:24:34.669336"
   },
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "HOLD",
-    "confidence": 0.86,
-    "price": 0.00890431,
-    "volume_24h": 2919179.31,
-    "price_change_24h": 18.64,
-    "timestamp": "2026-06-21T03:37:30.743281"
+    "confidence": 0.66,
+    "price": 0.00365809,
+    "volume_24h": 2749628.38,
+    "price_change_24h": 24.7,
+    "timestamp": "2026-06-21T08:24:34.669325"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.85,
-    "price": 0.00455237,
-    "volume_24h": 3512175.84,
-    "price_change_24h": 10.52,
-    "timestamp": "2026-06-21T03:37:30.743303"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.81,
-    "price": 0.07604543,
-    "volume_24h": 1307002.33,
-    "price_change_24h": 4.3,
-    "timestamp": "2026-06-21T03:37:30.743270"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.75,
-    "price": 0.06781544,
-    "volume_24h": 2491668.61,
-    "price_change_24h": 5.26,
-    "timestamp": "2026-06-21T03:37:30.743288"
+    "confidence": 0.66,
+    "price": 0.00964082,
+    "volume_24h": 4977155.06,
+    "price_change_24h": 18.8,
+    "timestamp": "2026-06-21T08:24:34.669345"
   }
 ]
