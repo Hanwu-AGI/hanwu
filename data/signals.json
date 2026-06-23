@@ -1,52 +1,32 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "SELL",
-    "confidence": 0.9,
-    "price": 0.08547873,
-    "volume_24h": 1282034.28,
-    "price_change_24h": 11.47,
-    "timestamp": "2026-06-23T19:26:11.354519"
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.92,
+    "price": 0.01697835,
+    "volume_24h": 457077.71,
+    "price_change_24h": -5.09,
+    "timestamp": "2026-06-23T21:13:22.239875"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.88,
-    "price": 0.05766571,
-    "volume_24h": 4013664.65,
-    "price_change_24h": -2.42,
-    "timestamp": "2026-06-23T19:26:11.354551"
+    "confidence": 0.9,
+    "price": 0.03488866,
+    "volume_24h": 2194144.64,
+    "price_change_24h": 4.9,
+    "timestamp": "2026-06-23T21:13:22.239867"
   },
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "SELL",
-    "confidence": 0.87,
-    "price": 0.0828375,
-    "volume_24h": 2787820.75,
-    "price_change_24h": 19.69,
-    "timestamp": "2026-06-23T19:26:11.354538"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "HOLD",
-    "confidence": 0.82,
-    "price": 0.07442388,
-    "volume_24h": 1153221.64,
-    "price_change_24h": 0.04,
-    "timestamp": "2026-06-23T19:26:11.354530"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.74,
-    "price": 0.03482023,
-    "volume_24h": 2456905.68,
-    "price_change_24h": 3.55,
-    "timestamp": "2026-06-23T19:26:11.354544"
+    "confidence": 0.69,
+    "price": 0.00931815,
+    "volume_24h": 3742517.93,
+    "price_change_24h": -8.94,
+    "timestamp": "2026-06-23T21:13:22.239856"
   }
 ]
