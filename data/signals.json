@@ -2,51 +2,41 @@
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
+    "signal": "BUY",
     "confidence": 0.91,
-    "price": 0.01028991,
-    "volume_24h": 4876068.62,
-    "price_change_24h": 19.28,
-    "timestamp": "2026-06-27T00:00:54.901448"
+    "price": 0.00735066,
+    "volume_24h": 183307.29,
+    "price_change_24h": 4.27,
+    "timestamp": "2026-06-27T04:31:55.530859"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "HOLD",
-    "confidence": 0.85,
-    "price": 0.05237058,
-    "volume_24h": 1264834.41,
-    "price_change_24h": -1.83,
-    "timestamp": "2026-06-27T00:00:54.901436"
+    "confidence": 0.84,
+    "price": 0.09040987,
+    "volume_24h": 1087546.89,
+    "price_change_24h": 2.49,
+    "timestamp": "2026-06-27T04:31:55.530867"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "SELL",
-    "confidence": 0.8,
-    "price": 0.08788456,
-    "volume_24h": 1153638.04,
-    "price_change_24h": -8.03,
-    "timestamp": "2026-06-27T00:00:54.901427"
+    "confidence": 0.77,
+    "price": 0.03232978,
+    "volume_24h": 3880158.75,
+    "price_change_24h": 19.83,
+    "timestamp": "2026-06-27T04:31:55.530874"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.67,
-    "price": 0.01935432,
-    "volume_24h": 2928695.01,
-    "price_change_24h": 19.32,
-    "timestamp": "2026-06-27T00:00:54.901442"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.67,
-    "price": 0.09842424,
-    "volume_24h": 691334.37,
-    "price_change_24h": -13.17,
-    "timestamp": "2026-06-27T00:00:54.901453"
+    "confidence": 0.66,
+    "price": 0.0144337,
+    "volume_24h": 4583710.54,
+    "price_change_24h": 9.78,
+    "timestamp": "2026-06-27T04:31:55.530848"
   }
 ]
