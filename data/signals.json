@@ -1,52 +1,32 @@
 [
   {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
     "confidence": 0.97,
-    "price": 0.02242484,
-    "volume_24h": 1998684.1,
-    "price_change_24h": -12.74,
-    "timestamp": "2026-06-29T18:05:15.587211"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.93,
-    "price": 0.0925515,
-    "volume_24h": 2329979.98,
-    "price_change_24h": -7.3,
-    "timestamp": "2026-06-29T18:05:15.587230"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.87,
-    "price": 0.08160256,
-    "volume_24h": 1257566.5,
-    "price_change_24h": 15.66,
-    "timestamp": "2026-06-29T18:05:15.587222"
+    "price": 0.05454886,
+    "volume_24h": 4077495.11,
+    "price_change_24h": 0.2,
+    "timestamp": "2026-06-29T20:21:31.461240"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.76,
-    "price": 0.0609632,
-    "volume_24h": 3530381.91,
-    "price_change_24h": 17.06,
-    "timestamp": "2026-06-29T18:05:15.587244"
+    "signal": "HOLD",
+    "confidence": 0.87,
+    "price": 0.0374268,
+    "volume_24h": 2644190.02,
+    "price_change_24h": 10.08,
+    "timestamp": "2026-06-29T20:21:31.461249"
   },
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "SELL",
-    "confidence": 0.66,
-    "price": 0.06607467,
-    "volume_24h": 1719048.17,
-    "price_change_24h": 8.94,
-    "timestamp": "2026-06-29T18:05:15.587238"
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.73,
+    "price": 0.05855254,
+    "volume_24h": 165747.5,
+    "price_change_24h": 17.18,
+    "timestamp": "2026-06-29T20:21:31.461255"
   }
 ]
