@@ -1,32 +1,52 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.95,
-    "price": 0.08128299,
-    "volume_24h": 1760121.02,
-    "price_change_24h": -13.05,
-    "timestamp": "2026-07-04T16:58:44.504378"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.93,
-    "price": 0.0435658,
-    "volume_24h": 4635624.26,
-    "price_change_24h": -1.08,
-    "timestamp": "2026-07-04T16:58:44.504386"
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "SELL",
+    "confidence": 0.91,
+    "price": 0.05624065,
+    "volume_24h": 3404676.93,
+    "price_change_24h": -9.8,
+    "timestamp": "2026-07-04T18:04:57.646710"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.9,
+    "price": 0.0084119,
+    "volume_24h": 2768106.81,
+    "price_change_24h": 3.33,
+    "timestamp": "2026-07-04T18:04:57.646695"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.74,
-    "price": 0.05702148,
-    "volume_24h": 548771.52,
-    "price_change_24h": -2.77,
-    "timestamp": "2026-07-04T16:58:44.504368"
+    "confidence": 0.9,
+    "price": 0.09421261,
+    "volume_24h": 3243483.96,
+    "price_change_24h": 22.98,
+    "timestamp": "2026-07-04T18:04:57.646716"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "HOLD",
+    "confidence": 0.87,
+    "price": 0.03924342,
+    "volume_24h": 3141893.18,
+    "price_change_24h": 8.94,
+    "timestamp": "2026-07-04T18:04:57.646703"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.71,
+    "price": 0.04677527,
+    "volume_24h": 3723681.86,
+    "price_change_24h": -9.29,
+    "timestamp": "2026-07-04T18:04:57.646685"
   }
 ]
