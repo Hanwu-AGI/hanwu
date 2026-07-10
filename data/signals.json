@@ -1,52 +1,52 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.92,
-    "price": 0.0705487,
-    "volume_24h": 4568335.75,
-    "price_change_24h": -0.23,
-    "timestamp": "2026-07-10T12:39:19.797694"
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
+    "confidence": 0.96,
+    "price": 0.02478649,
+    "volume_24h": 3667313.48,
+    "price_change_24h": 12.13,
+    "timestamp": "2026-07-10T15:28:29.245135"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.82,
-    "price": 0.04269246,
-    "volume_24h": 3309930.78,
-    "price_change_24h": -6.62,
-    "timestamp": "2026-07-10T12:39:19.797709"
+    "signal": "BUY",
+    "confidence": 0.93,
+    "price": 0.00838479,
+    "volume_24h": 4724383.28,
+    "price_change_24h": -6.5,
+    "timestamp": "2026-07-10T15:28:29.245103"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.8,
-    "price": 0.09196142,
-    "volume_24h": 2704292.45,
-    "price_change_24h": -12.78,
-    "timestamp": "2026-07-10T12:39:19.797684"
+    "confidence": 0.84,
+    "price": 0.0900181,
+    "volume_24h": 3565776.2,
+    "price_change_24h": 8.13,
+    "timestamp": "2026-07-10T15:28:29.245114"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "SELL",
+    "confidence": 0.69,
+    "price": 0.05412126,
+    "volume_24h": 3754734.56,
+    "price_change_24h": 14.22,
+    "timestamp": "2026-07-10T15:28:29.245129"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "HOLD",
-    "confidence": 0.74,
-    "price": 0.01197149,
-    "volume_24h": 4077324.69,
-    "price_change_24h": -2.17,
-    "timestamp": "2026-07-10T12:39:19.797715"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "SELL",
-    "confidence": 0.71,
-    "price": 0.08119575,
-    "volume_24h": 2948505.59,
-    "price_change_24h": -12.41,
-    "timestamp": "2026-07-10T12:39:19.797702"
+    "signal": "BUY",
+    "confidence": 0.66,
+    "price": 0.05548338,
+    "volume_24h": 1520543.35,
+    "price_change_24h": 2.86,
+    "timestamp": "2026-07-10T15:28:29.245122"
   }
 ]
