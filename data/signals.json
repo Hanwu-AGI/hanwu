@@ -1,42 +1,42 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.87,
-    "price": 0.03118262,
-    "volume_24h": 3916989.82,
-    "price_change_24h": -13.12,
-    "timestamp": "2026-07-11T17:51:11.559810"
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.89,
+    "price": 0.08622148,
+    "volume_24h": 4751157.72,
+    "price_change_24h": -4.5,
+    "timestamp": "2026-07-11T18:54:03.080327"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.73,
+    "price": 0.07332417,
+    "volume_24h": 306609.44,
+    "price_change_24h": -12.72,
+    "timestamp": "2026-07-11T18:54:03.080318"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.71,
+    "price": 0.07538663,
+    "volume_24h": 1270312.58,
+    "price_change_24h": -10.8,
+    "timestamp": "2026-07-11T18:54:03.080334"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.8,
-    "price": 0.0334911,
-    "volume_24h": 3003800.69,
-    "price_change_24h": -6.99,
-    "timestamp": "2026-07-11T17:51:11.559792"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.76,
-    "price": 0.00856054,
-    "volume_24h": 3875929.3,
-    "price_change_24h": 20.98,
-    "timestamp": "2026-07-11T17:51:11.559817"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.73,
-    "price": 0.09834627,
-    "volume_24h": 1703581.76,
-    "price_change_24h": 4.59,
-    "timestamp": "2026-07-11T17:51:11.559803"
+    "confidence": 0.7,
+    "price": 0.03931454,
+    "volume_24h": 2887171.72,
+    "price_change_24h": 22.52,
+    "timestamp": "2026-07-11T18:54:03.080340"
   }
 ]
