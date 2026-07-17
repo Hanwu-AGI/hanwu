@@ -1,52 +1,52 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.9,
-    "price": 0.00495788,
-    "volume_24h": 4621376.12,
-    "price_change_24h": 5.35,
-    "timestamp": "2026-07-17T06:35:24.481006"
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.96,
+    "price": 0.01344339,
+    "volume_24h": 973628.88,
+    "price_change_24h": 20.02,
+    "timestamp": "2026-07-17T09:05:10.439818"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.9,
-    "price": 0.05649898,
-    "volume_24h": 449321.1,
-    "price_change_24h": 3.68,
-    "timestamp": "2026-07-17T06:35:24.481015"
+    "confidence": 0.94,
+    "price": 0.04523862,
+    "volume_24h": 3566575.53,
+    "price_change_24h": 23.74,
+    "timestamp": "2026-07-17T09:05:10.439799"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.76,
-    "price": 0.00538125,
-    "volume_24h": 1720598.71,
-    "price_change_24h": 22.54,
-    "timestamp": "2026-07-17T06:35:24.481031"
+    "signal": "SELL",
+    "confidence": 0.88,
+    "price": 0.07681025,
+    "volume_24h": 4629908.34,
+    "price_change_24h": 21.9,
+    "timestamp": "2026-07-17T09:05:10.439810"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "BUY",
-    "confidence": 0.71,
-    "price": 0.04839849,
-    "volume_24h": 3872758.56,
-    "price_change_24h": 1.42,
-    "timestamp": "2026-07-17T06:35:24.481021"
+    "confidence": 0.84,
+    "price": 0.00691903,
+    "volume_24h": 2004500.69,
+    "price_change_24h": 20.79,
+    "timestamp": "2026-07-17T09:05:10.439824"
   },
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "SELL",
-    "confidence": 0.71,
-    "price": 0.09642158,
-    "volume_24h": 1902236.8,
-    "price_change_24h": 20.78,
-    "timestamp": "2026-07-17T06:35:24.481026"
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "HOLD",
+    "confidence": 0.81,
+    "price": 0.04108709,
+    "volume_24h": 1156772.35,
+    "price_change_24h": -0.05,
+    "timestamp": "2026-07-17T09:05:10.439832"
   }
 ]
