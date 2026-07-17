@@ -1,32 +1,52 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "SELL",
+    "confidence": 0.92,
+    "price": 0.00423218,
+    "volume_24h": 2445878.37,
+    "price_change_24h": 21.74,
+    "timestamp": "2026-07-17T18:32:33.643101"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "HOLD",
+    "confidence": 0.85,
+    "price": 0.08744901,
+    "volume_24h": 168038.57,
+    "price_change_24h": 12.56,
+    "timestamp": "2026-07-17T18:32:33.643114"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.95,
-    "price": 0.02744353,
-    "volume_24h": 2702569.74,
-    "price_change_24h": 19.38,
-    "timestamp": "2026-07-17T17:08:53.197879"
+    "confidence": 0.83,
+    "price": 0.07973782,
+    "volume_24h": 4471029.74,
+    "price_change_24h": -3.57,
+    "timestamp": "2026-07-17T18:32:33.643093"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.83,
-    "price": 0.06813297,
-    "volume_24h": 4237745.95,
-    "price_change_24h": 17.42,
-    "timestamp": "2026-07-17T17:08:53.197899"
+    "signal": "BUY",
+    "confidence": 0.76,
+    "price": 0.05060776,
+    "volume_24h": 659359.2,
+    "price_change_24h": 13.97,
+    "timestamp": "2026-07-17T18:32:33.643081"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "HOLD",
-    "confidence": 0.78,
-    "price": 0.0616244,
-    "volume_24h": 641156.64,
-    "price_change_24h": 23.23,
-    "timestamp": "2026-07-17T17:08:53.197891"
+    "confidence": 0.73,
+    "price": 0.00014128,
+    "volume_24h": 1523398.29,
+    "price_change_24h": 15.21,
+    "timestamp": "2026-07-17T18:32:33.643108"
   }
 ]
