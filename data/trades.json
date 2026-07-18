@@ -12802,5 +12802,27 @@
     "new_balance": 1.002797,
     "confidence": 0.96,
     "timestamp": "2026-07-18T08:04:06.370230"
+  },
+  {
+    "action": "BUY",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "amount": 0.0073,
+    "outcome": "LOSS",
+    "profit_loss": -0.002152,
+    "new_balance": 0.997848,
+    "confidence": 0.91,
+    "timestamp": "2026-07-18T09:53:32.317175"
+  },
+  {
+    "action": "BUY",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "amount": 0.0133,
+    "outcome": "LOSS",
+    "profit_loss": -0.004879,
+    "new_balance": 0.992969,
+    "confidence": 0.87,
+    "timestamp": "2026-07-18T09:53:32.317192"
   }
 ]
