@@ -1,32 +1,52 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.93,
-    "price": 0.06244933,
-    "volume_24h": 2616948.8,
-    "price_change_24h": 3.59,
-    "timestamp": "2026-07-18T23:23:42.752078"
-  },
-  {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "HOLD",
-    "confidence": 0.92,
-    "price": 0.06267085,
-    "volume_24h": 4365259.99,
-    "price_change_24h": 13.57,
-    "timestamp": "2026-07-18T23:23:42.752058"
+    "signal": "SELL",
+    "confidence": 0.97,
+    "price": 0.09882157,
+    "volume_24h": 735030.43,
+    "price_change_24h": 14.41,
+    "timestamp": "2026-07-19T00:58:12.191815"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.83,
-    "price": 0.05061835,
-    "volume_24h": 3720462.22,
-    "price_change_24h": 10.41,
-    "timestamp": "2026-07-18T23:23:42.752069"
+    "signal": "SELL",
+    "confidence": 0.96,
+    "price": 0.07962207,
+    "volume_24h": 3113503.08,
+    "price_change_24h": -5.08,
+    "timestamp": "2026-07-19T00:58:12.191797"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.87,
+    "price": 0.04676647,
+    "volume_24h": 4843564.77,
+    "price_change_24h": 12.74,
+    "timestamp": "2026-07-19T00:58:12.191807"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.79,
+    "price": 0.04757307,
+    "volume_24h": 4051478.75,
+    "price_change_24h": -10.07,
+    "timestamp": "2026-07-19T00:58:12.191822"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "SELL",
+    "confidence": 0.75,
+    "price": 0.09278711,
+    "volume_24h": 1206191.65,
+    "price_change_24h": -4.19,
+    "timestamp": "2026-07-19T00:58:12.191829"
   }
 ]
