@@ -1,7 +1,7 @@
 {
-  "cycle": 2014,
-  "last_update": "2026-07-21T08:17:50.198225",
+  "cycle": 2015,
+  "last_update": "2026-07-21T10:36:45.426279",
   "win_rate": 64.8,
   "total_trades": 1192,
-  "thinking": "cross-referencing on-chain data..."
+  "thinking": "observing the mempool..."
 }
