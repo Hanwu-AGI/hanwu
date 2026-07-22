@@ -1,52 +1,32 @@
 [
   {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "HOLD",
-    "confidence": 0.93,
-    "price": 0.02960299,
-    "volume_24h": 1379335.04,
-    "price_change_24h": 23.78,
-    "timestamp": "2026-07-22T19:51:14.819279"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.9,
-    "price": 0.09455896,
-    "volume_24h": 388959.5,
-    "price_change_24h": -10.88,
-    "timestamp": "2026-07-22T19:51:14.819273"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "SELL",
-    "confidence": 0.88,
-    "price": 0.07675807,
-    "volume_24h": 3678535.28,
-    "price_change_24h": 5.25,
-    "timestamp": "2026-07-22T19:51:14.819260"
+    "confidence": 0.98,
+    "price": 0.03741927,
+    "volume_24h": 2695794.53,
+    "price_change_24h": 11.43,
+    "timestamp": "2026-07-22T20:59:43.143503"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.79,
-    "price": 0.09410927,
-    "volume_24h": 2786317.19,
-    "price_change_24h": -11.0,
-    "timestamp": "2026-07-22T19:51:14.819267"
+    "confidence": 0.97,
+    "price": 0.00240635,
+    "volume_24h": 2150488.35,
+    "price_change_24h": -12.29,
+    "timestamp": "2026-07-22T20:59:43.143488"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.76,
-    "price": 0.02944299,
-    "volume_24h": 3861627.44,
-    "price_change_24h": 9.71,
-    "timestamp": "2026-07-22T19:51:14.819250"
+    "confidence": 0.97,
+    "price": 0.04230909,
+    "volume_24h": 3054612.51,
+    "price_change_24h": 11.4,
+    "timestamp": "2026-07-22T20:59:43.143496"
   }
 ]
