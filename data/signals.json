@@ -1,52 +1,32 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.97,
-    "price": 0.07576428,
-    "volume_24h": 4316838.89,
-    "price_change_24h": 11.79,
-    "timestamp": "2026-07-25T10:08:08.001724"
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "HOLD",
+    "confidence": 0.84,
+    "price": 0.0240212,
+    "volume_24h": 3307524.18,
+    "price_change_24h": 12.87,
+    "timestamp": "2026-07-25T11:41:19.812644"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.95,
-    "price": 0.07585285,
-    "volume_24h": 3099966.18,
-    "price_change_24h": 16.77,
-    "timestamp": "2026-07-25T10:08:08.001732"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.89,
-    "price": 0.04862441,
-    "volume_24h": 2991828.87,
-    "price_change_24h": 9.54,
-    "timestamp": "2026-07-25T10:08:08.001712"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.88,
-    "price": 0.0974703,
-    "volume_24h": 3405585.89,
-    "price_change_24h": 15.26,
-    "timestamp": "2026-07-25T10:08:08.001745"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.74,
-    "price": 0.05934565,
-    "volume_24h": 597873.92,
-    "price_change_24h": 23.15,
-    "timestamp": "2026-07-25T10:08:08.001739"
+    "confidence": 0.79,
+    "price": 0.01376034,
+    "volume_24h": 1329266.83,
+    "price_change_24h": -13.84,
+    "timestamp": "2026-07-25T11:41:19.812636"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.7,
+    "price": 0.0357096,
+    "volume_24h": 1455663.77,
+    "price_change_24h": 18.4,
+    "timestamp": "2026-07-25T11:41:19.812624"
   }
 ]
