@@ -14232,5 +14232,27 @@
     "new_balance": 1.004466,
     "confidence": 0.89,
     "timestamp": "2026-08-01T22:49:33.592480"
+  },
+  {
+    "action": "BUY",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "amount": 0.0127,
+    "outcome": "WIN",
+    "profit_loss": 0.00784,
+    "new_balance": 1.00784,
+    "confidence": 0.97,
+    "timestamp": "2026-08-02T10:12:53.360988"
+  },
+  {
+    "action": "BUY",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "amount": 0.0097,
+    "outcome": "WIN",
+    "profit_loss": 0.002383,
+    "new_balance": 1.010223,
+    "confidence": 0.88,
+    "timestamp": "2026-08-02T10:12:53.361009"
   }
 ]
