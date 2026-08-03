@@ -1,52 +1,52 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "SELL",
-    "confidence": 0.87,
-    "price": 0.01870389,
-    "volume_24h": 1176413.87,
-    "price_change_24h": 19.67,
-    "timestamp": "2026-08-03T20:42:05.175608"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.82,
-    "price": 0.05960812,
-    "volume_24h": 3352440.01,
-    "price_change_24h": -11.82,
-    "timestamp": "2026-08-03T20:42:05.175594"
-  },
-  {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
+    "confidence": 0.96,
+    "price": 0.02202494,
+    "volume_24h": 2678701.61,
+    "price_change_24h": -11.96,
+    "timestamp": "2026-08-03T22:03:17.701264"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "HOLD",
-    "confidence": 0.79,
-    "price": 0.08643477,
-    "volume_24h": 3996349.86,
-    "price_change_24h": -0.31,
-    "timestamp": "2026-08-03T20:42:05.175585"
+    "confidence": 0.86,
+    "price": 0.09086352,
+    "volume_24h": 1871645.24,
+    "price_change_24h": 4.11,
+    "timestamp": "2026-08-03T22:03:17.701275"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.83,
+    "price": 0.09373552,
+    "volume_24h": 680033.32,
+    "price_change_24h": -4.0,
+    "timestamp": "2026-08-03T22:03:17.701296"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "HOLD",
-    "confidence": 0.73,
-    "price": 0.01879893,
-    "volume_24h": 2289046.7,
-    "price_change_24h": -11.59,
-    "timestamp": "2026-08-03T20:42:05.175601"
+    "confidence": 0.82,
+    "price": 0.0560327,
+    "volume_24h": 1255841.41,
+    "price_change_24h": 5.62,
+    "timestamp": "2026-08-03T22:03:17.701289"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "HOLD",
     "confidence": 0.65,
-    "price": 0.07802917,
-    "volume_24h": 2573457.56,
-    "price_change_24h": -12.2,
-    "timestamp": "2026-08-03T20:42:05.175614"
+    "price": 0.05502041,
+    "volume_24h": 2420327.8,
+    "price_change_24h": -1.11,
+    "timestamp": "2026-08-03T22:03:17.701282"
   }
 ]
