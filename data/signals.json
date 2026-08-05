@@ -1,32 +1,52 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "BUY",
-    "confidence": 0.86,
-    "price": 0.04287353,
-    "volume_24h": 3837133.58,
-    "price_change_24h": -13.59,
-    "timestamp": "2026-08-05T02:01:07.788564"
+    "confidence": 0.93,
+    "price": 0.02716304,
+    "volume_24h": 4596885.21,
+    "price_change_24h": 23.36,
+    "timestamp": "2026-08-05T05:27:36.207442"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.84,
-    "price": 0.02750228,
-    "volume_24h": 1939544.79,
-    "price_change_24h": -8.38,
-    "timestamp": "2026-08-05T02:01:07.788556"
+    "confidence": 0.93,
+    "price": 0.00511359,
+    "volume_24h": 2666646.87,
+    "price_change_24h": 5.02,
+    "timestamp": "2026-08-05T05:27:36.207449"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.79,
-    "price": 0.03767106,
-    "volume_24h": 3623928.7,
-    "price_change_24h": -9.14,
-    "timestamp": "2026-08-05T02:01:07.788570"
+    "confidence": 0.88,
+    "price": 0.00394814,
+    "volume_24h": 4743322.89,
+    "price_change_24h": -14.45,
+    "timestamp": "2026-08-05T05:27:36.207435"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "SELL",
+    "confidence": 0.81,
+    "price": 0.07903502,
+    "volume_24h": 3863179.74,
+    "price_change_24h": -9.51,
+    "timestamp": "2026-08-05T05:27:36.207416"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "SELL",
+    "confidence": 0.81,
+    "price": 0.02023912,
+    "volume_24h": 2516065.92,
+    "price_change_24h": 12.0,
+    "timestamp": "2026-08-05T05:27:36.207427"
   }
 ]
