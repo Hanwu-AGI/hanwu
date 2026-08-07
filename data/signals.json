@@ -1,32 +1,52 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.94,
+    "price": 0.09473456,
+    "volume_24h": 409631.35,
+    "price_change_24h": 6.73,
+    "timestamp": "2026-08-07T23:03:12.972278"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
-    "confidence": 0.96,
-    "price": 0.00868036,
-    "volume_24h": 1008101.43,
-    "price_change_24h": -11.45,
-    "timestamp": "2026-08-07T22:03:48.073276"
+    "confidence": 0.87,
+    "price": 0.0484967,
+    "volume_24h": 3897303.06,
+    "price_change_24h": 10.54,
+    "timestamp": "2026-08-07T23:03:12.972267"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.77,
-    "price": 0.03962529,
-    "volume_24h": 2695419.42,
-    "price_change_24h": 15.78,
-    "timestamp": "2026-08-07T22:03:48.073285"
+    "signal": "HOLD",
+    "confidence": 0.85,
+    "price": 0.01419999,
+    "volume_24h": 928172.94,
+    "price_change_24h": -14.39,
+    "timestamp": "2026-08-07T23:03:12.972294"
   },
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "HOLD",
+    "confidence": 0.77,
+    "price": 0.06247308,
+    "volume_24h": 376733.26,
+    "price_change_24h": -8.26,
+    "timestamp": "2026-08-07T23:03:12.972287"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "SELL",
-    "confidence": 0.72,
-    "price": 0.02197001,
-    "volume_24h": 4147468.88,
-    "price_change_24h": 18.06,
-    "timestamp": "2026-08-07T22:03:48.073291"
+    "confidence": 0.7,
+    "price": 0.03820697,
+    "volume_24h": 3534821.56,
+    "price_change_24h": 20.82,
+    "timestamp": "2026-08-07T23:03:12.972301"
   }
 ]
