@@ -1,42 +1,42 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.92,
-    "price": 0.03611973,
-    "volume_24h": 2933947.11,
-    "price_change_24h": -11.5,
-    "timestamp": "2026-08-08T13:40:54.188026"
-  },
-  {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.87,
-    "price": 0.05167237,
-    "volume_24h": 3052253.79,
-    "price_change_24h": -13.03,
-    "timestamp": "2026-08-08T13:40:54.188018"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.81,
-    "price": 0.05878762,
-    "volume_24h": 4644663.54,
-    "price_change_24h": 4.62,
-    "timestamp": "2026-08-08T13:40:54.188032"
+    "signal": "HOLD",
+    "confidence": 0.85,
+    "price": 0.04919174,
+    "volume_24h": 309252.22,
+    "price_change_24h": -1.74,
+    "timestamp": "2026-08-08T14:26:23.952379"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.68,
-    "price": 0.01618952,
-    "volume_24h": 2112897.86,
-    "price_change_24h": 1.98,
-    "timestamp": "2026-08-08T13:40:54.188007"
+    "signal": "HOLD",
+    "confidence": 0.72,
+    "price": 0.03354819,
+    "volume_24h": 1006202.74,
+    "price_change_24h": 23.38,
+    "timestamp": "2026-08-08T14:26:23.952364"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "HOLD",
+    "confidence": 0.7,
+    "price": 0.03617433,
+    "volume_24h": 1413636.24,
+    "price_change_24h": 8.73,
+    "timestamp": "2026-08-08T14:26:23.952371"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.67,
+    "price": 0.05568559,
+    "volume_24h": 4362700.6,
+    "price_change_24h": 5.96,
+    "timestamp": "2026-08-08T14:26:23.952354"
   }
 ]
