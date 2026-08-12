@@ -2,51 +2,41 @@
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.97,
-    "price": 0.06570419,
-    "volume_24h": 2347636.57,
-    "price_change_24h": -13.14,
-    "timestamp": "2026-08-12T21:39:09.985804"
+    "signal": "BUY",
+    "confidence": 0.92,
+    "price": 0.08536401,
+    "volume_24h": 3522891.45,
+    "price_change_24h": 24.95,
+    "timestamp": "2026-08-12T22:34:23.349969"
   },
   {
     "token": "DOGE2",
     "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "SELL",
-    "confidence": 0.95,
-    "price": 0.01307483,
-    "volume_24h": 2672325.51,
-    "price_change_24h": -5.36,
-    "timestamp": "2026-08-12T21:39:09.985822"
+    "confidence": 0.85,
+    "price": 0.04572698,
+    "volume_24h": 2547008.35,
+    "price_change_24h": 2.45,
+    "timestamp": "2026-08-12T22:34:23.349976"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "BUY",
-    "confidence": 0.81,
-    "price": 0.01163804,
-    "volume_24h": 1890706.29,
-    "price_change_24h": -10.49,
-    "timestamp": "2026-08-12T21:39:09.985830"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.8,
-    "price": 0.06729779,
-    "volume_24h": 889494.89,
-    "price_change_24h": -1.56,
-    "timestamp": "2026-08-12T21:39:09.985814"
+    "confidence": 0.84,
+    "price": 0.00085081,
+    "volume_24h": 1245314.35,
+    "price_change_24h": 14.6,
+    "timestamp": "2026-08-12T22:34:23.349950"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.8,
-    "price": 0.0724225,
-    "volume_24h": 1284153.28,
-    "price_change_24h": 24.41,
-    "timestamp": "2026-08-12T21:39:09.985836"
+    "confidence": 0.81,
+    "price": 0.08770278,
+    "volume_24h": 523276.05,
+    "price_change_24h": -14.35,
+    "timestamp": "2026-08-12T22:34:23.349962"
   }
 ]
