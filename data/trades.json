@@ -16201,5 +16201,27 @@
     "new_balance": 1.001686,
     "confidence": 0.89,
     "timestamp": "2026-08-15T23:42:20.328673"
+  },
+  {
+    "action": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "amount": 0.0111,
+    "outcome": "LOSS",
+    "profit_loss": -0.00282,
+    "new_balance": 0.99718,
+    "confidence": 0.97,
+    "timestamp": "2026-08-16T00:59:00.805362"
+  },
+  {
+    "action": "BUY",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "amount": 0.009,
+    "outcome": "WIN",
+    "profit_loss": 0.005693,
+    "new_balance": 1.002874,
+    "confidence": 0.86,
+    "timestamp": "2026-08-16T00:59:00.805379"
   }
 ]
