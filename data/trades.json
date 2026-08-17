@@ -16630,5 +16630,27 @@
     "new_balance": 0.997472,
     "confidence": 0.86,
     "timestamp": "2026-08-17T11:20:10.547614"
+  },
+  {
+    "action": "BUY",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "amount": 0.0104,
+    "outcome": "LOSS",
+    "profit_loss": -0.001131,
+    "new_balance": 0.998869,
+    "confidence": 0.95,
+    "timestamp": "2026-08-17T11:48:28.783405"
+  },
+  {
+    "action": "BUY",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "amount": 0.0118,
+    "outcome": "WIN",
+    "profit_loss": 0.0064,
+    "new_balance": 1.005268,
+    "confidence": 0.9,
+    "timestamp": "2026-08-17T11:48:28.783418"
   }
 ]
