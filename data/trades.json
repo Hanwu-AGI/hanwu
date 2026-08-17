@@ -16597,5 +16597,38 @@
     "new_balance": 1.003454,
     "confidence": 0.91,
     "timestamp": "2026-08-17T10:55:30.883954"
+  },
+  {
+    "action": "BUY",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "amount": 0.0141,
+    "outcome": "LOSS",
+    "profit_loss": -0.001517,
+    "new_balance": 0.998483,
+    "confidence": 0.93,
+    "timestamp": "2026-08-17T11:20:10.547589"
+  },
+  {
+    "action": "BUY",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "amount": 0.0144,
+    "outcome": "LOSS",
+    "profit_loss": -0.003231,
+    "new_balance": 0.995252,
+    "confidence": 0.92,
+    "timestamp": "2026-08-17T11:20:10.547606"
+  },
+  {
+    "action": "BUY",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "amount": 0.0062,
+    "outcome": "WIN",
+    "profit_loss": 0.00222,
+    "new_balance": 0.997472,
+    "confidence": 0.86,
+    "timestamp": "2026-08-17T11:20:10.547614"
   }
 ]
