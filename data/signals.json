@@ -1,42 +1,42 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.72,
-    "price": 0.02842982,
-    "volume_24h": 4311863.06,
-    "price_change_24h": -3.28,
-    "timestamp": "2026-08-18T13:37:40.344908"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.69,
-    "price": 0.07725586,
-    "volume_24h": 1638450.24,
-    "price_change_24h": -4.17,
-    "timestamp": "2026-08-18T13:37:40.344944"
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "HOLD",
+    "confidence": 0.92,
+    "price": 0.01614921,
+    "volume_24h": 4243308.37,
+    "price_change_24h": -11.02,
+    "timestamp": "2026-08-18T14:27:00.624509"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.65,
-    "price": 0.09912322,
-    "volume_24h": 1736982.13,
-    "price_change_24h": 11.04,
-    "timestamp": "2026-08-18T13:37:40.344930"
+    "confidence": 0.88,
+    "price": 0.03036275,
+    "volume_24h": 1616750.76,
+    "price_change_24h": -3.31,
+    "timestamp": "2026-08-18T14:27:00.624521"
   },
   {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.65,
-    "price": 0.00914729,
-    "volume_24h": 3662988.71,
-    "price_change_24h": -12.58,
-    "timestamp": "2026-08-18T13:37:40.344952"
+    "confidence": 0.88,
+    "price": 0.01196829,
+    "volume_24h": 2027465.31,
+    "price_change_24h": 24.5,
+    "timestamp": "2026-08-18T14:27:00.624525"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.73,
+    "price": 0.03889269,
+    "volume_24h": 4669574.06,
+    "price_change_24h": 8.89,
+    "timestamp": "2026-08-18T14:27:00.624516"
   }
 ]
