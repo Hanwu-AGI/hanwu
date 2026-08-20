@@ -1,32 +1,52 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.9,
-    "price": 0.04005412,
-    "volume_24h": 2577873.13,
-    "price_change_24h": -4.28,
-    "timestamp": "2026-08-20T18:30:42.574549"
+    "confidence": 0.85,
+    "price": 0.04815959,
+    "volume_24h": 680504.12,
+    "price_change_24h": 9.36,
+    "timestamp": "2026-08-20T19:25:45.304579"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
+    "signal": "HOLD",
     "confidence": 0.83,
-    "price": 0.01028374,
-    "volume_24h": 1613340.56,
-    "price_change_24h": 6.59,
-    "timestamp": "2026-08-20T18:30:42.574558"
+    "price": 0.06353842,
+    "volume_24h": 3621392.85,
+    "price_change_24h": 7.85,
+    "timestamp": "2026-08-20T19:25:45.304560"
   },
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.76,
-    "price": 0.08417275,
-    "volume_24h": 435838.48,
-    "price_change_24h": 6.25,
-    "timestamp": "2026-08-20T18:30:42.574538"
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.82,
+    "price": 0.00794696,
+    "volume_24h": 3262779.51,
+    "price_change_24h": 15.26,
+    "timestamp": "2026-08-20T19:25:45.304586"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.74,
+    "price": 0.06736007,
+    "volume_24h": 1512879.06,
+    "price_change_24h": 22.48,
+    "timestamp": "2026-08-20T19:25:45.304571"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "SELL",
+    "confidence": 0.67,
+    "price": 0.06691836,
+    "volume_24h": 179978.72,
+    "price_change_24h": 18.97,
+    "timestamp": "2026-08-20T19:25:45.304592"
   }
 ]
