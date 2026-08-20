@@ -1,42 +1,52 @@
 [
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.87,
-    "price": 0.04110237,
-    "volume_24h": 1938939.1,
-    "price_change_24h": 13.03,
-    "timestamp": "2026-08-20T03:22:49.430916"
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.93,
+    "price": 0.05398093,
+    "volume_24h": 1480380.91,
+    "price_change_24h": 19.86,
+    "timestamp": "2026-08-20T04:05:27.222934"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "SELL",
-    "confidence": 0.77,
-    "price": 0.05775342,
-    "volume_24h": 2979948.97,
-    "price_change_24h": 10.92,
-    "timestamp": "2026-08-20T03:22:49.430927"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "HOLD",
-    "confidence": 0.77,
-    "price": 0.02932176,
-    "volume_24h": 948575.89,
-    "price_change_24h": 13.12,
-    "timestamp": "2026-08-20T03:22:49.430942"
+    "confidence": 0.86,
+    "price": 0.02374157,
+    "volume_24h": 3942727.61,
+    "price_change_24h": 19.54,
+    "timestamp": "2026-08-20T04:05:27.222945"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.71,
-    "price": 0.05750053,
-    "volume_24h": 262811.93,
-    "price_change_24h": 16.11,
-    "timestamp": "2026-08-20T03:22:49.430935"
+    "signal": "SELL",
+    "confidence": 0.84,
+    "price": 0.05177205,
+    "volume_24h": 111694.24,
+    "price_change_24h": 22.25,
+    "timestamp": "2026-08-20T04:05:27.222967"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
+    "confidence": 0.77,
+    "price": 0.07786553,
+    "volume_24h": 1053897.91,
+    "price_change_24h": 13.57,
+    "timestamp": "2026-08-20T04:05:27.222953"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "SELL",
+    "confidence": 0.68,
+    "price": 0.08770437,
+    "volume_24h": 4441879.53,
+    "price_change_24h": 9.55,
+    "timestamp": "2026-08-20T04:05:27.222961"
   }
 ]
