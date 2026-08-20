@@ -1,32 +1,52 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "HOLD",
+    "confidence": 0.97,
+    "price": 0.02515391,
+    "volume_24h": 3906898.05,
+    "price_change_24h": 5.38,
+    "timestamp": "2026-08-20T14:30:12.950751"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "BUY",
+    "confidence": 0.85,
+    "price": 0.03803369,
+    "volume_24h": 2116442.92,
+    "price_change_24h": 12.63,
+    "timestamp": "2026-08-20T14:30:12.950726"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
     "confidence": 0.79,
-    "price": 0.03554047,
-    "volume_24h": 2116280.9,
-    "price_change_24h": -1.87,
-    "timestamp": "2026-08-20T13:40:53.967571"
+    "price": 0.02859711,
+    "volume_24h": 2314060.71,
+    "price_change_24h": -5.16,
+    "timestamp": "2026-08-20T14:30:12.950745"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "SELL",
-    "confidence": 0.78,
-    "price": 0.04012829,
-    "volume_24h": 1468787.64,
-    "price_change_24h": 17.8,
-    "timestamp": "2026-08-20T13:40:53.967582"
+    "signal": "HOLD",
+    "confidence": 0.76,
+    "price": 0.07100348,
+    "volume_24h": 4595949.09,
+    "price_change_24h": 11.04,
+    "timestamp": "2026-08-20T14:30:12.950736"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "BUY",
-    "confidence": 0.76,
-    "price": 0.04818016,
-    "volume_24h": 796431.34,
-    "price_change_24h": -2.96,
-    "timestamp": "2026-08-20T13:40:53.967590"
+    "confidence": 0.68,
+    "price": 0.02087491,
+    "volume_24h": 2619228.56,
+    "price_change_24h": -1.45,
+    "timestamp": "2026-08-20T14:30:12.950758"
   }
 ]
