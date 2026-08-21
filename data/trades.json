@@ -17257,5 +17257,27 @@
     "new_balance": 1.003417,
     "confidence": 0.88,
     "timestamp": "2026-08-21T03:28:40.231565"
+  },
+  {
+    "action": "BUY",
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "amount": 0.013,
+    "outcome": "WIN",
+    "profit_loss": 0.006989,
+    "new_balance": 1.006989,
+    "confidence": 0.94,
+    "timestamp": "2026-08-21T04:10:01.003166"
+  },
+  {
+    "action": "BUY",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "amount": 0.0068,
+    "outcome": "LOSS",
+    "profit_loss": -0.001528,
+    "new_balance": 1.005461,
+    "confidence": 0.87,
+    "timestamp": "2026-08-21T04:10:01.003184"
   }
 ]
