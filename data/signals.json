@@ -1,52 +1,32 @@
 [
   {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.95,
-    "price": 0.08066889,
-    "volume_24h": 3355144.12,
-    "price_change_24h": -1.04,
-    "timestamp": "2026-08-21T20:47:30.178692"
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "HOLD",
+    "confidence": 0.97,
+    "price": 0.00842627,
+    "volume_24h": 3108466.05,
+    "price_change_24h": 20.97,
+    "timestamp": "2026-08-21T21:18:05.131474"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "HOLD",
     "confidence": 0.87,
-    "price": 0.08302371,
-    "volume_24h": 4546451.74,
-    "price_change_24h": 23.21,
-    "timestamp": "2026-08-21T20:47:30.178681"
+    "price": 0.07457038,
+    "volume_24h": 3636466.85,
+    "price_change_24h": 5.6,
+    "timestamp": "2026-08-21T21:18:05.131480"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.85,
-    "price": 0.05907416,
-    "volume_24h": 3674416.92,
-    "price_change_24h": 8.67,
-    "timestamp": "2026-08-21T20:47:30.178713"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.82,
-    "price": 0.00258567,
-    "volume_24h": 771113.39,
-    "price_change_24h": 13.86,
-    "timestamp": "2026-08-21T20:47:30.178700"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.66,
-    "price": 0.05307307,
-    "volume_24h": 2754420.24,
-    "price_change_24h": -14.47,
-    "timestamp": "2026-08-21T20:47:30.178707"
+    "signal": "BUY",
+    "confidence": 0.81,
+    "price": 0.05094159,
+    "volume_24h": 1742390.08,
+    "price_change_24h": 11.34,
+    "timestamp": "2026-08-21T21:18:05.131465"
   }
 ]
