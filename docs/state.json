@@ -1,7 +1,7 @@
 {
-  "cycle": 2784,
-  "last_update": "2026-08-25T20:22:38.032492",
+  "cycle": 2785,
+  "last_update": "2026-08-25T20:53:49.446009",
   "win_rate": 64.7,
-  "total_trades": 1668,
-  "thinking": "scanning for alpha..."
+  "total_trades": 1670,
+  "thinking": "calibrating signal weights..."
 }
