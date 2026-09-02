@@ -1,7 +1,7 @@
 {
-  "cycle": 2841,
-  "last_update": "2026-09-02T12:27:43.662251",
+  "cycle": 2842,
+  "last_update": "2026-09-02T16:46:43.718074",
   "win_rate": 64.9,
   "total_trades": 1702,
-  "thinking": "analyzing whale movements..."
+  "thinking": "calibrating signal weights..."
 }
