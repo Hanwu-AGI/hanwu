@@ -1,52 +1,32 @@
 [
   {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.94,
+    "price": 0.04532374,
+    "volume_24h": 2567464.46,
+    "price_change_24h": -10.74,
+    "timestamp": "2026-09-17T17:25:17.681102"
+  },
+  {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.96,
-    "price": 0.06620219,
-    "volume_24h": 2383681.01,
-    "price_change_24h": 10.75,
-    "timestamp": "2026-09-17T12:40:28.076265"
+    "signal": "SELL",
+    "confidence": 0.89,
+    "price": 0.02844657,
+    "volume_24h": 2730802.48,
+    "price_change_24h": -12.88,
+    "timestamp": "2026-09-17T17:25:17.681109"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.94,
-    "price": 0.08406009,
-    "volume_24h": 4345506.55,
-    "price_change_24h": -7.33,
-    "timestamp": "2026-09-17T12:40:28.076286"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.88,
-    "price": 0.09505062,
-    "volume_24h": 2847556.85,
-    "price_change_24h": -7.05,
-    "timestamp": "2026-09-17T12:40:28.076254"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "BUY",
-    "confidence": 0.76,
-    "price": 0.03914495,
-    "volume_24h": 1366059.23,
-    "price_change_24h": 1.6,
-    "timestamp": "2026-09-17T12:40:28.076280"
-  },
-  {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "BUY",
-    "confidence": 0.68,
-    "price": 0.03207954,
-    "volume_24h": 1453972.17,
-    "price_change_24h": -4.43,
-    "timestamp": "2026-09-17T12:40:28.076273"
+    "signal": "HOLD",
+    "confidence": 0.79,
+    "price": 0.0675262,
+    "volume_24h": 2983500.56,
+    "price_change_24h": -10.12,
+    "timestamp": "2026-09-17T17:25:17.681113"
   }
 ]
