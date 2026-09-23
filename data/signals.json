@@ -1,42 +1,52 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.98,
-    "price": 0.022121,
-    "volume_24h": 1196017.49,
-    "price_change_24h": 10.19,
-    "timestamp": "2026-09-23T07:12:19.635152"
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
+    "confidence": 0.95,
+    "price": 0.01054183,
+    "volume_24h": 1139369.94,
+    "price_change_24h": -1.62,
+    "timestamp": "2026-09-23T12:51:39.972703"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.92,
-    "price": 0.09224327,
-    "volume_24h": 4340900.58,
-    "price_change_24h": 3.92,
-    "timestamp": "2026-09-23T07:12:19.635161"
+    "confidence": 0.93,
+    "price": 0.01271982,
+    "volume_24h": 1720612.29,
+    "price_change_24h": 4.9,
+    "timestamp": "2026-09-23T12:51:39.972721"
   },
   {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.88,
-    "price": 0.05293378,
-    "volume_24h": 3305879.73,
-    "price_change_24h": 15.25,
-    "timestamp": "2026-09-23T07:12:19.635172"
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "SELL",
+    "confidence": 0.91,
+    "price": 0.04619136,
+    "volume_24h": 4927380.46,
+    "price_change_24h": 23.25,
+    "timestamp": "2026-09-23T12:51:39.972709"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "HOLD",
-    "confidence": 0.68,
-    "price": 0.0598037,
-    "volume_24h": 3460247.13,
-    "price_change_24h": 9.84,
-    "timestamp": "2026-09-23T07:12:19.635167"
+    "signal": "SELL",
+    "confidence": 0.88,
+    "price": 0.04951889,
+    "volume_24h": 4711067.43,
+    "price_change_24h": -6.23,
+    "timestamp": "2026-09-23T12:51:39.972694"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "BUY",
+    "confidence": 0.78,
+    "price": 0.05922443,
+    "volume_24h": 108970.8,
+    "price_change_24h": 24.06,
+    "timestamp": "2026-09-23T12:51:39.972715"
   }
 ]
