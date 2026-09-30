@@ -1,32 +1,52 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.91,
-    "price": 0.0517086,
-    "volume_24h": 1121872.22,
-    "price_change_24h": 21.18,
-    "timestamp": "2026-09-29T23:22:21.316484"
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "SELL",
+    "confidence": 0.93,
+    "price": 0.05961342,
+    "volume_24h": 1474492.07,
+    "price_change_24h": 16.65,
+    "timestamp": "2026-09-30T02:14:22.422690"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "SELL",
+    "confidence": 0.92,
+    "price": 0.04310821,
+    "volume_24h": 1490070.37,
+    "price_change_24h": -4.25,
+    "timestamp": "2026-09-30T02:14:22.422696"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "signal": "HOLD",
-    "confidence": 0.83,
-    "price": 0.09010383,
-    "volume_24h": 4449916.09,
-    "price_change_24h": -9.91,
-    "timestamp": "2026-09-29T23:22:21.316492"
+    "confidence": 0.86,
+    "price": 0.09502423,
+    "volume_24h": 4195708.56,
+    "price_change_24h": -12.92,
+    "timestamp": "2026-09-30T02:14:22.422682"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "HOLD",
-    "confidence": 0.76,
-    "price": 0.01295992,
-    "volume_24h": 4300334.08,
-    "price_change_24h": -2.19,
-    "timestamp": "2026-09-29T23:22:21.316474"
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "BUY",
+    "confidence": 0.73,
+    "price": 0.03316685,
+    "volume_24h": 1156518.28,
+    "price_change_24h": 11.34,
+    "timestamp": "2026-09-30T02:14:22.422703"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.71,
+    "price": 0.08613907,
+    "volume_24h": 3808227.35,
+    "price_change_24h": 19.02,
+    "timestamp": "2026-09-30T02:14:22.422671"
   }
 ]
