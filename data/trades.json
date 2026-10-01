@@ -19941,5 +19941,27 @@
     "new_balance": 0.998189,
     "confidence": 0.88,
     "timestamp": "2026-09-30T08:48:43.278639"
+  },
+  {
+    "action": "BUY",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "amount": 0.0117,
+    "outcome": "WIN",
+    "profit_loss": 0.003137,
+    "new_balance": 1.003137,
+    "confidence": 0.96,
+    "timestamp": "2026-10-01T06:17:32.819607"
+  },
+  {
+    "action": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "amount": 0.0098,
+    "outcome": "WIN",
+    "profit_loss": 0.004799,
+    "new_balance": 1.007936,
+    "confidence": 0.86,
+    "timestamp": "2026-10-01T06:17:32.819624"
   }
 ]
