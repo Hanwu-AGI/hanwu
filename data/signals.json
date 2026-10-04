@@ -1,32 +1,52 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.88,
-    "price": 0.01243202,
-    "volume_24h": 4122182.63,
-    "price_change_24h": 10.81,
-    "timestamp": "2026-10-04T00:18:52.035763"
+    "confidence": 0.97,
+    "price": 0.00186822,
+    "volume_24h": 1468207.6,
+    "price_change_24h": -7.85,
+    "timestamp": "2026-10-04T06:08:31.310441"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.85,
-    "price": 0.09994291,
-    "volume_24h": 4955802.91,
-    "price_change_24h": -10.43,
-    "timestamp": "2026-10-04T00:18:52.035768"
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "HOLD",
+    "confidence": 0.9,
+    "price": 0.07736887,
+    "volume_24h": 813178.16,
+    "price_change_24h": -11.74,
+    "timestamp": "2026-10-04T06:08:31.310452"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "HOLD",
+    "confidence": 0.79,
+    "price": 0.04389223,
+    "volume_24h": 2070764.39,
+    "price_change_24h": 24.16,
+    "timestamp": "2026-10-04T06:08:31.310447"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "HOLD",
+    "confidence": 0.71,
+    "price": 0.00964073,
+    "volume_24h": 4405427.96,
+    "price_change_24h": -8.22,
+    "timestamp": "2026-10-04T06:08:31.310432"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "SELL",
     "confidence": 0.71,
-    "price": 0.09011329,
-    "volume_24h": 4549689.2,
-    "price_change_24h": 4.97,
-    "timestamp": "2026-10-04T00:18:52.035757"
+    "price": 0.02354247,
+    "volume_24h": 4938088.45,
+    "price_change_24h": 19.64,
+    "timestamp": "2026-10-04T06:08:31.310457"
   }
 ]
