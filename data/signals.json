@@ -1,42 +1,42 @@
 [
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.96,
-    "price": 0.06377559,
-    "volume_24h": 776025.01,
-    "price_change_24h": 20.71,
-    "timestamp": "2026-10-13T05:07:03.929842"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "BUY",
-    "confidence": 0.87,
-    "price": 0.03967569,
-    "volume_24h": 4418016.7,
-    "price_change_24h": 0.47,
-    "timestamp": "2026-10-13T05:07:03.929823"
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "HOLD",
+    "confidence": 0.94,
+    "price": 0.06740796,
+    "volume_24h": 3437107.87,
+    "price_change_24h": -11.85,
+    "timestamp": "2026-10-13T12:50:35.199069"
   },
   {
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.72,
-    "price": 0.07643495,
-    "volume_24h": 3325392.38,
-    "price_change_24h": -4.05,
-    "timestamp": "2026-10-13T05:07:03.929834"
+    "signal": "HOLD",
+    "confidence": 0.82,
+    "price": 0.00603705,
+    "volume_24h": 1676603.84,
+    "price_change_24h": 17.4,
+    "timestamp": "2026-10-13T12:50:35.199080"
   },
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "SELL",
-    "confidence": 0.69,
-    "price": 0.07601846,
-    "volume_24h": 1565435.88,
-    "price_change_24h": -9.06,
-    "timestamp": "2026-10-13T05:07:03.929848"
+    "confidence": 0.81,
+    "price": 0.05993028,
+    "volume_24h": 941527.14,
+    "price_change_24h": -2.79,
+    "timestamp": "2026-10-13T12:50:35.199084"
+  },
+  {
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "signal": "HOLD",
+    "confidence": 0.79,
+    "price": 0.06081013,
+    "volume_24h": 148353.29,
+    "price_change_24h": 4.11,
+    "timestamp": "2026-10-13T12:50:35.199076"
   }
 ]
