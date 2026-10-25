@@ -20821,5 +20821,38 @@
     "new_balance": 1.004879,
     "confidence": 0.97,
     "timestamp": "2026-10-25T12:17:23.797326"
+  },
+  {
+    "action": "BUY",
+    "token": "SHIB",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "amount": 0.0059,
+    "outcome": "WIN",
+    "profit_loss": 0.002103,
+    "new_balance": 1.002103,
+    "confidence": 0.97,
+    "timestamp": "2026-10-25T16:39:16.529394"
+  },
+  {
+    "action": "BUY",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "amount": 0.0077,
+    "outcome": "WIN",
+    "profit_loss": 0.002642,
+    "new_balance": 1.004745,
+    "confidence": 0.9,
+    "timestamp": "2026-10-25T16:39:16.529407"
+  },
+  {
+    "action": "BUY",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "amount": 0.0073,
+    "outcome": "LOSS",
+    "profit_loss": -0.00139,
+    "new_balance": 1.003355,
+    "confidence": 0.89,
+    "timestamp": "2026-10-25T16:39:16.529415"
   }
 ]
