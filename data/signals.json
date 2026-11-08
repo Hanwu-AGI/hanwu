@@ -1,52 +1,32 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "signal": "BUY",
     "confidence": 0.97,
-    "price": 0.01823984,
-    "volume_24h": 4558224.36,
-    "price_change_24h": 4.82,
-    "timestamp": "2026-11-07T22:52:42.476272"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "HOLD",
-    "confidence": 0.93,
-    "price": 0.06657761,
-    "volume_24h": 3427743.17,
-    "price_change_24h": -4.65,
-    "timestamp": "2026-11-07T22:52:42.476299"
+    "price": 0.02739054,
+    "volume_24h": 383441.45,
+    "price_change_24h": 9.08,
+    "timestamp": "2026-11-08T01:59:28.056023"
   },
   {
     "token": "WOJAK",
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.93,
-    "price": 0.08090683,
-    "volume_24h": 4729652.74,
-    "price_change_24h": 22.86,
-    "timestamp": "2026-11-07T22:52:42.476305"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "SELL",
-    "confidence": 0.76,
-    "price": 0.07479449,
-    "volume_24h": 3411205.8,
-    "price_change_24h": -6.27,
-    "timestamp": "2026-11-07T22:52:42.476291"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "HOLD",
-    "confidence": 0.7,
-    "price": 0.07714809,
-    "volume_24h": 1032777.55,
-    "price_change_24h": 15.4,
-    "timestamp": "2026-11-07T22:52:42.476282"
+    "confidence": 0.77,
+    "price": 0.04720336,
+    "volume_24h": 402572.47,
+    "price_change_24h": 15.9,
+    "timestamp": "2026-11-08T01:59:28.056012"
+  },
+  {
+    "token": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "BUY",
+    "confidence": 0.74,
+    "price": 0.09523311,
+    "volume_24h": 4360790.83,
+    "price_change_24h": 5.51,
+    "timestamp": "2026-11-08T01:59:28.056031"
   }
 ]
