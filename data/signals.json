@@ -1,42 +1,42 @@
 [
   {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
     "signal": "BUY",
-    "confidence": 0.96,
-    "price": 0.06714935,
-    "volume_24h": 3567050.79,
-    "price_change_24h": 9.4,
-    "timestamp": "2026-11-13T21:46:09.291736"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "SELL",
     "confidence": 0.94,
-    "price": 0.06840451,
-    "volume_24h": 1558208.0,
-    "price_change_24h": 14.72,
-    "timestamp": "2026-11-13T21:46:09.291726"
-  },
-  {
-    "token": "SHIB",
-    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "signal": "HOLD",
-    "confidence": 0.93,
-    "price": 0.09872416,
-    "volume_24h": 1174412.73,
-    "price_change_24h": 0.34,
-    "timestamp": "2026-11-13T21:46:09.291719"
+    "price": 0.08239381,
+    "volume_24h": 2678801.36,
+    "price_change_24h": 18.95,
+    "timestamp": "2026-11-14T01:56:26.308589"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "signal": "SELL",
+    "confidence": 0.9,
+    "price": 0.05042904,
+    "volume_24h": 895935.42,
+    "price_change_24h": -7.74,
+    "timestamp": "2026-11-14T01:56:26.308583"
+  },
+  {
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "BUY",
-    "confidence": 0.74,
-    "price": 0.00066661,
-    "volume_24h": 677434.37,
-    "price_change_24h": -14.49,
-    "timestamp": "2026-11-13T21:46:09.291732"
+    "confidence": 0.79,
+    "price": 0.07411706,
+    "volume_24h": 2537011.85,
+    "price_change_24h": 1.16,
+    "timestamp": "2026-11-14T01:56:26.308564"
+  },
+  {
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "signal": "BUY",
+    "confidence": 0.7,
+    "price": 0.09079748,
+    "volume_24h": 2679132.62,
+    "price_change_24h": -4.09,
+    "timestamp": "2026-11-14T01:56:26.308574"
   }
 ]
