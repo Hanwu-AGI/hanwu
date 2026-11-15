@@ -3,50 +3,50 @@
     "token": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "SELL",
-    "confidence": 0.95,
-    "price": 0.08918841,
-    "volume_24h": 2656276.21,
-    "price_change_24h": -8.31,
-    "timestamp": "2026-11-15T19:54:28.813893"
+    "confidence": 0.9,
+    "price": 0.00022266,
+    "volume_24h": 4760368.44,
+    "price_change_24h": 22.31,
+    "timestamp": "2026-11-15T23:41:47.753274"
   },
   {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "token": "DOGE2",
+    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "SELL",
-    "confidence": 0.89,
-    "price": 0.00085436,
-    "volume_24h": 2593948.71,
-    "price_change_24h": -13.17,
-    "timestamp": "2026-11-15T19:54:28.813900"
+    "confidence": 0.86,
+    "price": 0.02305531,
+    "volume_24h": 2696172.44,
+    "price_change_24h": 7.21,
+    "timestamp": "2026-11-15T23:41:47.753290"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
     "confidence": 0.8,
-    "price": 0.01012044,
-    "volume_24h": 2679496.15,
-    "price_change_24h": 11.92,
-    "timestamp": "2026-11-15T19:54:28.813874"
+    "price": 0.09509406,
+    "volume_24h": 4147470.06,
+    "price_change_24h": -8.68,
+    "timestamp": "2026-11-15T23:41:47.753286"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "HOLD",
+    "confidence": 0.67,
+    "price": 0.07636749,
+    "volume_24h": 1077450.37,
+    "price_change_24h": 15.22,
+    "timestamp": "2026-11-15T23:41:47.753281"
   },
   {
     "token": "PEPE",
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
-    "signal": "HOLD",
-    "confidence": 0.75,
-    "price": 0.09091389,
-    "volume_24h": 3434184.47,
-    "price_change_24h": 11.64,
-    "timestamp": "2026-11-15T19:54:28.813907"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
     "signal": "BUY",
-    "confidence": 0.66,
-    "price": 0.03570561,
-    "volume_24h": 1826749.53,
-    "price_change_24h": 22.74,
-    "timestamp": "2026-11-15T19:54:28.813884"
+    "confidence": 0.67,
+    "price": 0.01067754,
+    "volume_24h": 1312985.02,
+    "price_change_24h": -5.28,
+    "timestamp": "2026-11-15T23:41:47.753294"
   }
 ]
