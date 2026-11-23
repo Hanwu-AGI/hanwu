@@ -1,52 +1,32 @@
 [
   {
-    "token": "PEPE",
-    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token": "FLOKI",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "signal": "BUY",
-    "confidence": 0.98,
-    "price": 0.05847403,
-    "volume_24h": 2864293.83,
-    "price_change_24h": -13.34,
-    "timestamp": "2026-11-23T11:49:02.855340"
+    "confidence": 0.94,
+    "price": 0.01449905,
+    "volume_24h": 4089171.0,
+    "price_change_24h": 16.77,
+    "timestamp": "2026-11-23T23:15:30.580959"
+  },
+  {
+    "token": "WOJAK",
+    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "signal": "HOLD",
+    "confidence": 0.92,
+    "price": 0.01736028,
+    "volume_24h": 2402179.69,
+    "price_change_24h": -0.83,
+    "timestamp": "2026-11-23T23:15:30.580940"
   },
   {
     "token": "SHIB",
     "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "signal": "BUY",
-    "confidence": 0.95,
-    "price": 0.02267023,
-    "volume_24h": 880687.61,
-    "price_change_24h": -14.0,
-    "timestamp": "2026-11-23T11:49:02.855333"
-  },
-  {
-    "token": "DOGE2",
-    "address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
-    "signal": "HOLD",
-    "confidence": 0.92,
-    "price": 0.08160557,
-    "volume_24h": 857721.74,
-    "price_change_24h": 11.51,
-    "timestamp": "2026-11-23T11:49:02.855345"
-  },
-  {
-    "token": "WOJAK",
-    "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "signal": "BUY",
-    "confidence": 0.86,
-    "price": 0.04133381,
-    "volume_24h": 911283.22,
-    "price_change_24h": 19.08,
-    "timestamp": "2026-11-23T11:49:02.855353"
-  },
-  {
-    "token": "FLOKI",
-    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
-    "signal": "BUY",
-    "confidence": 0.72,
-    "price": 0.0898156,
-    "volume_24h": 2535168.16,
-    "price_change_24h": 2.72,
-    "timestamp": "2026-11-23T11:49:02.855349"
+    "confidence": 0.89,
+    "price": 0.0844677,
+    "volume_24h": 258092.36,
+    "price_change_24h": 8.43,
+    "timestamp": "2026-11-23T23:15:30.580951"
   }
 ]
